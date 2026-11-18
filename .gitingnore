@@ -3,3 +3,4 @@ __pycache__/
 env/
 venv/
 .vscode/
+./entrega2/datos/*.npz
