@@ -1,34 +1,30 @@
 id,answer
 0,positivo
 1,neutral
-2,negativo
+2,positivo
 3,neutral
 4,negativo
-5,negativo
-6,positivo
+5,positivo
+6,negativo
 7,positivo
 8,negativo
-9,neutral
+9,negativo
 10,neutral
-11,negativo
+11,positivo
 12,negativo
 13,positivo
 14,positivo
 15,positivo
-16,positivo
+16,negativo
 17,negativo
-<<<<<<< HEAD
 18,negativo
-=======
-18,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 19,positivo
 20,neutral
 21,positivo
 22,neutral
 23,negativo
-24,positivo
-25,negativo
+24,negativo
+25,positivo
 26,negativo
 27,neutral
 28,negativo
@@ -38,15 +34,9 @@ id,answer
 32,positivo
 33,neutral
 34,negativo
-<<<<<<< HEAD
-35,negativo
-36,positivo
-37,positivo
-=======
 35,positivo
 36,positivo
 37,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 38,negativo
 39,negativo
 40,positivo
@@ -77,12 +67,8 @@ id,answer
 65,positivo
 66,positivo
 67,negativo
-68,negativo
-<<<<<<< HEAD
-69,positivo
-=======
+68,positivo
 69,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 70,negativo
 71,negativo
 72,positivo
@@ -97,7 +83,7 @@ id,answer
 81,neutral
 82,neutral
 83,neutral
-84,negativo
+84,positivo
 85,neutral
 86,negativo
 87,negativo
@@ -106,26 +92,21 @@ id,answer
 90,negativo
 91,neutral
 92,positivo
-<<<<<<< HEAD
-93,negativo
-94,negativo
-=======
 93,positivo
-94,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+94,negativo
 95,negativo
 96,positivo
-97,negativo
+97,positivo
 98,negativo
 99,negativo
 100,negativo
 101,negativo
 102,neutral
-103,positivo
-104,positivo
+103,negativo
+104,negativo
 105,positivo
-106,negativo
-107,negativo
+106,positivo
+107,positivo
 108,negativo
 109,neutral
 110,positivo
@@ -134,9 +115,9 @@ id,answer
 113,negativo
 114,negativo
 115,positivo
-116,positivo
+116,negativo
 117,negativo
-118,negativo
+118,positivo
 119,negativo
 120,positivo
 121,negativo
@@ -145,7 +126,7 @@ id,answer
 124,negativo
 125,positivo
 126,negativo
-127,negativo
+127,positivo
 128,positivo
 129,negativo
 130,positivo
@@ -155,25 +136,21 @@ id,answer
 134,neutral
 135,positivo
 136,negativo
-137,positivo
+137,negativo
 138,negativo
 139,negativo
 140,negativo
 141,positivo
 142,positivo
 143,positivo
-144,negativo
+144,positivo
 145,neutral
-<<<<<<< HEAD
-146,negativo
-=======
 146,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-147,negativo
-148,positivo
+147,positivo
+148,negativo
 149,positivo
 150,positivo
-151,positivo
+151,negativo
 152,positivo
 153,positivo
 154,positivo
@@ -185,17 +162,17 @@ id,answer
 160,positivo
 161,positivo
 162,negativo
-163,positivo
-164,positivo
+163,negativo
+164,negativo
 165,neutral
-166,negativo
-167,negativo
+166,positivo
+167,positivo
 168,positivo
 169,neutral
 170,neutral
-171,negativo
+171,positivo
 172,positivo
-173,positivo
+173,negativo
 174,neutral
 175,positivo
 176,neutral
@@ -206,35 +183,27 @@ id,answer
 181,positivo
 182,positivo
 183,neutral
-184,negativo
-<<<<<<< HEAD
-185,positivo
-=======
+184,positivo
 185,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-186,positivo
+186,negativo
 187,neutral
 188,neutral
 189,negativo
-<<<<<<< HEAD
 190,positivo
-=======
-190,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 191,neutral
 192,positivo
-193,negativo
+193,neutral
 194,neutral
 195,negativo
 196,negativo
 197,negativo
 198,positivo
 199,positivo
-200,positivo
+200,negativo
 201,negativo
 202,positivo
 203,neutral
-204,negativo
+204,positivo
 205,neutral
 206,neutral
 207,positivo
@@ -255,29 +224,20 @@ id,answer
 222,positivo
 223,negativo
 224,positivo
-<<<<<<< HEAD
-225,negativo
-=======
 225,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-226,negativo
+226,positivo
 227,neutral
-228,negativo
-229,positivo
+228,positivo
+229,negativo
 230,negativo
 231,negativo
 232,negativo
 233,positivo
-234,positivo
+234,negativo
 235,negativo
 236,neutral
-<<<<<<< HEAD
-237,positivo
-238,negativo
-=======
 237,negativo
-238,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+238,negativo
 239,positivo
 240,positivo
 241,negativo
@@ -289,10 +249,10 @@ id,answer
 247,neutral
 248,positivo
 249,negativo
-250,negativo
+250,positivo
 251,positivo
 252,negativo
-253,negativo
+253,positivo
 254,neutral
 255,negativo
 256,negativo
@@ -308,14 +268,10 @@ id,answer
 266,neutral
 267,negativo
 268,negativo
-269,negativo
-270,negativo
+269,positivo
+270,positivo
 271,negativo
-<<<<<<< HEAD
-272,negativo
-=======
 272,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 273,positivo
 274,positivo
 275,neutral
@@ -327,9 +283,9 @@ id,answer
 281,positivo
 282,positivo
 283,negativo
-284,positivo
+284,negativo
 285,negativo
-286,negativo
+286,neutral
 287,negativo
 288,positivo
 289,neutral
@@ -361,16 +317,16 @@ id,answer
 315,negativo
 316,positivo
 317,neutral
-318,negativo
+318,positivo
 319,positivo
 320,negativo
 321,neutral
 322,negativo
 323,positivo
 324,neutral
-325,positivo
+325,negativo
 326,neutral
-327,positivo
+327,negativo
 328,positivo
 329,negativo
 330,positivo
@@ -380,15 +336,11 @@ id,answer
 334,positivo
 335,neutral
 336,positivo
-<<<<<<< HEAD
-337,positivo
-=======
 337,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 338,negativo
 339,neutral
-340,positivo
-341,negativo
+340,negativo
+341,positivo
 342,negativo
 343,negativo
 344,positivo
@@ -400,14 +352,14 @@ id,answer
 350,negativo
 351,negativo
 352,negativo
-353,negativo
+353,positivo
 354,positivo
 355,negativo
 356,positivo
 357,neutral
-358,positivo
+358,negativo
 359,negativo
-360,positivo
+360,negativo
 361,positivo
 362,negativo
 363,negativo
@@ -424,7 +376,7 @@ id,answer
 374,negativo
 375,negativo
 376,positivo
-377,negativo
+377,positivo
 378,neutral
 379,negativo
 380,positivo
@@ -439,13 +391,13 @@ id,answer
 389,positivo
 390,positivo
 391,positivo
-392,negativo
+392,positivo
 393,negativo
 394,positivo
 395,positivo
 396,positivo
 397,positivo
-398,positivo
+398,negativo
 399,positivo
 400,neutral
 401,positivo
@@ -456,25 +408,25 @@ id,answer
 406,neutral
 407,negativo
 408,positivo
-409,negativo
+409,positivo
 410,negativo
-411,positivo
+411,negativo
 412,positivo
 413,neutral
 414,negativo
-415,positivo
-416,negativo
+415,negativo
+416,positivo
 417,positivo
 418,neutral
 419,positivo
-420,positivo
+420,negativo
 421,positivo
 422,negativo
 423,negativo
 424,negativo
 425,negativo
 426,negativo
-427,negativo
+427,positivo
 428,neutral
 429,positivo
 430,negativo
@@ -484,30 +436,26 @@ id,answer
 434,negativo
 435,positivo
 436,negativo
-437,negativo
+437,positivo
 438,negativo
 439,positivo
 440,neutral
 441,neutral
-442,positivo
+442,negativo
 443,neutral
 444,positivo
-445,positivo
+445,negativo
 446,positivo
 447,positivo
-448,negativo
+448,positivo
 449,negativo
-450,negativo
+450,positivo
 451,positivo
 452,negativo
-453,positivo
+453,negativo
 454,negativo
 455,positivo
-<<<<<<< HEAD
 456,positivo
-=======
-456,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 457,positivo
 458,positivo
 459,negativo
@@ -518,13 +466,8 @@ id,answer
 464,negativo
 465,negativo
 466,positivo
-<<<<<<< HEAD
-467,negativo
-468,neutral
-=======
 467,positivo
-468,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+468,neutral
 469,positivo
 470,negativo
 471,negativo
@@ -540,28 +483,23 @@ id,answer
 481,negativo
 482,neutral
 483,negativo
-<<<<<<< HEAD
-484,positivo
-485,negativo
-=======
 484,negativo
 485,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 486,positivo
 487,neutral
-488,positivo
+488,negativo
 489,positivo
 490,positivo
 491,negativo
 492,positivo
 493,negativo
 494,negativo
-495,negativo
+495,positivo
 496,neutral
 497,negativo
 498,neutral
-499,negativo
-500,negativo
+499,positivo
+500,positivo
 501,negativo
 502,neutral
 503,neutral
@@ -582,14 +520,14 @@ id,answer
 518,negativo
 519,negativo
 520,positivo
-521,positivo
+521,negativo
 522,neutral
 523,positivo
 524,positivo
 525,negativo
 526,negativo
 527,negativo
-528,positivo
+528,negativo
 529,neutral
 530,negativo
 531,positivo
@@ -597,21 +535,17 @@ id,answer
 533,positivo
 534,negativo
 535,negativo
-536,positivo
-<<<<<<< HEAD
-537,negativo
-=======
+536,negativo
 537,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 538,neutral
-539,positivo
+539,negativo
 540,negativo
 541,negativo
 542,positivo
 543,positivo
 544,neutral
 545,positivo
-546,negativo
+546,positivo
 547,neutral
 548,positivo
 549,negativo
@@ -619,12 +553,12 @@ id,answer
 551,positivo
 552,negativo
 553,neutral
-554,positivo
+554,negativo
 555,neutral
 556,positivo
 557,positivo
 558,neutral
-559,negativo
+559,positivo
 560,negativo
 561,positivo
 562,neutral
@@ -652,7 +586,7 @@ id,answer
 584,positivo
 585,positivo
 586,neutral
-587,negativo
+587,positivo
 588,positivo
 589,positivo
 590,positivo
@@ -662,19 +596,14 @@ id,answer
 594,negativo
 595,positivo
 596,negativo
-<<<<<<< HEAD
-597,positivo
-598,negativo
-=======
 597,negativo
-598,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-599,positivo
+598,negativo
+599,negativo
 600,neutral
 601,negativo
 602,negativo
 603,positivo
-604,negativo
+604,positivo
 605,positivo
 606,positivo
 607,negativo
@@ -683,11 +612,7 @@ id,answer
 610,positivo
 611,negativo
 612,positivo
-<<<<<<< HEAD
-613,negativo
-=======
 613,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 614,positivo
 615,negativo
 616,negativo
@@ -699,18 +624,13 @@ id,answer
 622,positivo
 623,neutral
 624,positivo
-625,negativo
-626,negativo
+625,positivo
+626,positivo
 627,neutral
-<<<<<<< HEAD
 628,positivo
-629,positivo
-=======
-628,negativo
 629,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 630,positivo
-631,positivo
+631,negativo
 632,positivo
 633,neutral
 634,neutral
@@ -719,26 +639,22 @@ id,answer
 637,neutral
 638,negativo
 639,neutral
-640,negativo
+640,positivo
 641,negativo
 642,negativo
-643,negativo
-644,negativo
+643,neutral
+644,positivo
 645,negativo
 646,positivo
 647,neutral
 648,positivo
-649,negativo
-<<<<<<< HEAD
-650,positivo
-=======
+649,positivo
 650,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 651,negativo
 652,negativo
 653,negativo
 654,positivo
-655,negativo
+655,positivo
 656,negativo
 657,negativo
 658,negativo
@@ -752,15 +668,9 @@ id,answer
 666,positivo
 667,positivo
 668,positivo
-<<<<<<< HEAD
-669,neutral
-670,negativo
-671,positivo
-=======
 669,positivo
 670,positivo
 671,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 672,negativo
 673,positivo
 674,neutral
@@ -769,7 +679,7 @@ id,answer
 677,negativo
 678,negativo
 679,positivo
-680,positivo
+680,negativo
 681,negativo
 682,neutral
 683,negativo
@@ -780,7 +690,7 @@ id,answer
 688,positivo
 689,positivo
 690,negativo
-691,negativo
+691,neutral
 692,negativo
 693,positivo
 694,negativo
@@ -799,13 +709,9 @@ id,answer
 707,negativo
 708,positivo
 709,positivo
-<<<<<<< HEAD
-710,negativo
-=======
 710,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 711,positivo
-712,negativo
+712,positivo
 713,negativo
 714,positivo
 715,neutral
@@ -820,12 +726,8 @@ id,answer
 724,positivo
 725,neutral
 726,positivo
-727,negativo
-<<<<<<< HEAD
-728,negativo
-=======
+727,positivo
 728,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 729,negativo
 730,positivo
 731,negativo
@@ -836,53 +738,49 @@ id,answer
 736,positivo
 737,negativo
 738,negativo
-739,negativo
+739,positivo
 740,negativo
 741,negativo
 742,positivo
 743,negativo
-744,positivo
+744,neutral
 745,neutral
 746,negativo
 747,positivo
 748,positivo
 749,neutral
 750,neutral
-751,negativo
+751,positivo
 752,negativo
 753,neutral
 754,negativo
 755,negativo
 756,negativo
-757,negativo
-758,positivo
+757,positivo
+758,negativo
 759,positivo
 760,positivo
 761,negativo
-762,positivo
+762,negativo
 763,negativo
 764,positivo
 765,positivo
 766,negativo
 767,negativo
-768,negativo
+768,positivo
 769,negativo
 770,negativo
-771,negativo
+771,positivo
 772,positivo
 773,neutral
-774,negativo
+774,positivo
 775,negativo
-776,neutral
+776,positivo
 777,positivo
 778,negativo
 779,negativo
 780,positivo
-<<<<<<< HEAD
 781,positivo
-=======
-781,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 782,negativo
 783,positivo
 784,negativo
@@ -903,13 +801,9 @@ id,answer
 799,positivo
 800,positivo
 801,neutral
-802,negativo
+802,positivo
 803,positivo
-<<<<<<< HEAD
-804,positivo
-=======
 804,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 805,negativo
 806,positivo
 807,negativo
@@ -921,49 +815,49 @@ id,answer
 813,negativo
 814,positivo
 815,neutral
-816,negativo
+816,positivo
 817,neutral
 818,neutral
 819,negativo
 820,positivo
 821,negativo
-822,negativo
+822,positivo
 823,positivo
 824,negativo
 825,positivo
 826,positivo
-827,positivo
+827,negativo
 828,positivo
 829,negativo
 830,negativo
-831,positivo
+831,negativo
 832,negativo
 833,positivo
 834,positivo
 835,neutral
 836,negativo
 837,positivo
-838,negativo
+838,neutral
 839,positivo
 840,negativo
 841,neutral
 842,positivo
-843,positivo
-844,positivo
+843,negativo
+844,negativo
 845,positivo
-846,positivo
+846,negativo
 847,positivo
 848,neutral
 849,positivo
 850,neutral
-851,positivo
+851,negativo
 852,positivo
 853,negativo
 854,negativo
 855,negativo
 856,neutral
-857,negativo
-858,positivo
+857,positivo
+858,negativo
 859,neutral
 860,negativo
 861,neutral
@@ -982,11 +876,11 @@ id,answer
 874,negativo
 875,neutral
 876,neutral
-877,positivo
+877,negativo
 878,positivo
 879,negativo
 880,negativo
-881,positivo
+881,negativo
 882,neutral
 883,neutral
 884,negativo
@@ -995,35 +889,28 @@ id,answer
 887,negativo
 888,positivo
 889,positivo
-890,positivo
-891,negativo
+890,negativo
+891,positivo
 892,negativo
 893,positivo
 894,neutral
 895,positivo
 896,negativo
 897,positivo
-<<<<<<< HEAD
-898,negativo
-899,negativo
-900,positivo
-901,negativo
-=======
 898,positivo
 899,positivo
 900,positivo
 901,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 902,negativo
 903,neutral
 904,negativo
 905,neutral
-906,neutral
+906,negativo
 907,negativo
 908,positivo
 909,positivo
 910,neutral
-911,positivo
+911,negativo
 912,positivo
 913,positivo
 914,negativo
@@ -1044,14 +931,14 @@ id,answer
 929,positivo
 930,positivo
 931,positivo
-932,positivo
+932,negativo
 933,negativo
 934,negativo
-935,negativo
+935,positivo
 936,negativo
 937,negativo
 938,neutral
-939,positivo
+939,negativo
 940,negativo
 941,negativo
 942,positivo
@@ -1066,50 +953,38 @@ id,answer
 951,negativo
 952,negativo
 953,neutral
-954,negativo
+954,positivo
 955,neutral
 956,positivo
 957,neutral
-958,negativo
+958,positivo
 959,positivo
-<<<<<<< HEAD
 960,negativo
 961,positivo
-962,negativo
-963,positivo
-=======
-960,positivo
-961,positivo
 962,positivo
-963,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+963,positivo
 964,neutral
 965,negativo
 966,positivo
 967,negativo
 968,positivo
 969,negativo
-970,neutral
-971,negativo
+970,negativo
+971,positivo
 972,negativo
 973,neutral
 974,positivo
-975,negativo
-976,negativo
+975,positivo
+976,positivo
 977,negativo
 978,negativo
 979,positivo
 980,positivo
-<<<<<<< HEAD
-981,negativo
-982,negativo
-=======
 981,positivo
-982,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-983,negativo
+982,negativo
+983,positivo
 984,positivo
-985,negativo
+985,positivo
 986,negativo
 987,negativo
 988,negativo
@@ -1122,11 +997,7 @@ id,answer
 995,positivo
 996,negativo
 997,positivo
-<<<<<<< HEAD
 998,positivo
-=======
-998,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 999,negativo
 1000,positivo
 1001,positivo
@@ -1144,14 +1015,14 @@ id,answer
 1013,negativo
 1014,negativo
 1015,positivo
-1016,negativo
+1016,positivo
 1017,neutral
 1018,negativo
 1019,negativo
 1020,negativo
 1021,negativo
 1022,negativo
-1023,negativo
+1023,positivo
 1024,neutral
 1025,positivo
 1026,negativo
@@ -1170,52 +1041,47 @@ id,answer
 1039,negativo
 1040,neutral
 1041,negativo
-1042,negativo
+1042,positivo
 1043,negativo
 1044,neutral
-1045,negativo
+1045,positivo
 1046,negativo
 1047,negativo
 1048,negativo
 1049,negativo
 1050,positivo
 1051,neutral
-1052,positivo
+1052,negativo
 1053,positivo
 1054,positivo
 1055,negativo
 1056,neutral
 1057,positivo
 1058,positivo
-1059,positivo
+1059,negativo
 1060,negativo
 1061,negativo
-1062,negativo
+1062,positivo
 1063,negativo
 1064,positivo
 1065,positivo
 1066,neutral
-1067,positivo
+1067,negativo
 1068,negativo
 1069,positivo
 1070,positivo
 1071,neutral
-1072,positivo
-1073,negativo
+1072,negativo
+1073,positivo
 1074,neutral
 1075,negativo
-1076,negativo
+1076,positivo
 1077,neutral
-<<<<<<< HEAD
 1078,positivo
 1079,negativo
-=======
-1078,negativo
-1079,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1080,positivo
-1081,positivo
-1082,negativo
+1081,negativo
+1082,positivo
 1083,negativo
 1084,negativo
 1085,positivo
@@ -1225,12 +1091,8 @@ id,answer
 1089,negativo
 1090,positivo
 1091,positivo
-<<<<<<< HEAD
 1092,negativo
-=======
-1092,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-1093,positivo
+1093,negativo
 1094,neutral
 1095,negativo
 1096,positivo
@@ -1238,37 +1100,33 @@ id,answer
 1098,negativo
 1099,negativo
 1100,negativo
-<<<<<<< HEAD
-1101,positivo
-=======
 1101,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1102,negativo
 1103,neutral
 1104,positivo
 1105,neutral
 1106,neutral
-1107,positivo
+1107,neutral
 1108,positivo
 1109,negativo
 1110,neutral
 1111,neutral
 1112,negativo
 1113,negativo
-1114,positivo
+1114,negativo
 1115,positivo
 1116,negativo
 1117,negativo
 1118,positivo
 1119,negativo
 1120,positivo
-1121,negativo
+1121,positivo
 1122,positivo
 1123,negativo
-1124,negativo
+1124,positivo
 1125,negativo
 1126,negativo
-1127,positivo
+1127,neutral
 1128,negativo
 1129,neutral
 1130,positivo
@@ -1279,7 +1137,7 @@ id,answer
 1135,neutral
 1136,positivo
 1137,positivo
-1138,positivo
+1138,negativo
 1139,negativo
 1140,positivo
 1141,negativo
@@ -1287,13 +1145,13 @@ id,answer
 1143,negativo
 1144,negativo
 1145,positivo
-1146,positivo
+1146,negativo
 1147,positivo
 1148,neutral
-1149,positivo
+1149,negativo
 1150,positivo
 1151,negativo
-1152,negativo
+1152,positivo
 1153,neutral
 1154,negativo
 1155,positivo
@@ -1305,34 +1163,24 @@ id,answer
 1161,positivo
 1162,negativo
 1163,positivo
-<<<<<<< HEAD
-1164,negativo
-1165,negativo
-=======
 1164,neutral
 1165,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1166,negativo
 1167,positivo
 1168,positivo
 1169,negativo
 1170,neutral
-1171,negativo
+1171,positivo
 1172,neutral
 1173,negativo
 1174,neutral
-<<<<<<< HEAD
 1175,positivo
 1176,negativo
-=======
-1175,negativo
-1176,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1177,negativo
 1178,neutral
 1179,negativo
 1180,positivo
-1181,positivo
+1181,negativo
 1182,negativo
 1183,positivo
 1184,negativo
@@ -1359,31 +1207,25 @@ id,answer
 1205,neutral
 1206,positivo
 1207,negativo
-1208,positivo
+1208,negativo
 1209,positivo
-1210,positivo
+1210,negativo
 1211,positivo
 1212,positivo
 1213,positivo
 1214,neutral
-<<<<<<< HEAD
-1215,negativo
-1216,positivo
-1217,negativo
-=======
 1215,positivo
 1216,negativo
 1217,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-1218,negativo
+1218,positivo
 1219,negativo
 1220,negativo
 1221,positivo
 1222,negativo
 1223,neutral
-1224,positivo
+1224,negativo
 1225,neutral
-1226,positivo
+1226,negativo
 1227,negativo
 1228,positivo
 1229,negativo
@@ -1394,7 +1236,7 @@ id,answer
 1234,neutral
 1235,negativo
 1236,positivo
-1237,positivo
+1237,negativo
 1238,negativo
 1239,negativo
 1240,negativo
@@ -1413,12 +1255,12 @@ id,answer
 1253,positivo
 1254,positivo
 1255,negativo
-1256,positivo
+1256,negativo
 1257,positivo
 1258,negativo
 1259,positivo
 1260,negativo
-1261,negativo
+1261,positivo
 1262,positivo
 1263,positivo
 1264,negativo
@@ -1428,7 +1270,7 @@ id,answer
 1268,neutral
 1269,negativo
 1270,positivo
-1271,negativo
+1271,positivo
 1272,negativo
 1273,positivo
 1274,positivo
@@ -1441,7 +1283,7 @@ id,answer
 1281,positivo
 1282,negativo
 1283,positivo
-1284,positivo
+1284,negativo
 1285,neutral
 1286,positivo
 1287,neutral
@@ -1450,27 +1292,18 @@ id,answer
 1290,negativo
 1291,negativo
 1292,negativo
-<<<<<<< HEAD
-1293,positivo
-1294,negativo
-=======
 1293,negativo
 1294,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1295,neutral
 1296,positivo
 1297,neutral
 1298,positivo
 1299,positivo
 1300,negativo
-1301,negativo
+1301,positivo
 1302,neutral
 1303,neutral
-<<<<<<< HEAD
 1304,positivo
-=======
-1304,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1305,negativo
 1306,neutral
 1307,positivo
@@ -1479,17 +1312,13 @@ id,answer
 1310,negativo
 1311,positivo
 1312,negativo
-<<<<<<< HEAD
-1313,positivo
-=======
 1313,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-1314,negativo
+1314,positivo
 1315,negativo
-1316,negativo
+1316,positivo
 1317,negativo
 1318,neutral
-1319,positivo
+1319,negativo
 1320,positivo
 1321,negativo
 1322,positivo
@@ -1501,7 +1330,7 @@ id,answer
 1328,neutral
 1329,positivo
 1330,positivo
-1331,negativo
+1331,positivo
 1332,positivo
 1333,neutral
 1334,negativo
@@ -1518,7 +1347,7 @@ id,answer
 1345,negativo
 1346,negativo
 1347,negativo
-1348,positivo
+1348,negativo
 1349,neutral
 1350,negativo
 1351,neutral
@@ -1530,7 +1359,7 @@ id,answer
 1357,negativo
 1358,positivo
 1359,positivo
-1360,positivo
+1360,negativo
 1361,positivo
 1362,negativo
 1363,negativo
@@ -1538,7 +1367,7 @@ id,answer
 1365,positivo
 1366,positivo
 1367,positivo
-1368,negativo
+1368,positivo
 1369,positivo
 1370,negativo
 1371,positivo
@@ -1548,12 +1377,12 @@ id,answer
 1375,positivo
 1376,negativo
 1377,negativo
-1378,negativo
+1378,positivo
 1379,positivo
-1380,positivo
+1380,negativo
 1381,negativo
 1382,neutral
-1383,positivo
+1383,negativo
 1384,positivo
 1385,neutral
 1386,positivo
@@ -1567,47 +1396,38 @@ id,answer
 1394,positivo
 1395,negativo
 1396,neutral
-1397,positivo
+1397,negativo
 1398,neutral
 1399,negativo
-1400,positivo
+1400,negativo
 1401,positivo
 1402,positivo
 1403,neutral
 1404,negativo
 1405,positivo
-<<<<<<< HEAD
-1406,positivo
-=======
-1406,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+1406,neutral
 1407,negativo
 1408,neutral
 1409,negativo
 1410,negativo
-<<<<<<< HEAD
-1411,negativo
-1412,negativo
-=======
 1411,positivo
 1412,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1413,positivo
 1414,negativo
 1415,negativo
 1416,neutral
 1417,neutral
-1418,negativo
+1418,positivo
 1419,negativo
 1420,negativo
 1421,positivo
 1422,neutral
 1423,neutral
 1424,neutral
-1425,negativo
+1425,positivo
 1426,positivo
 1427,neutral
-1428,positivo
+1428,negativo
 1429,neutral
 1430,neutral
 1431,neutral
@@ -1631,37 +1451,29 @@ id,answer
 1449,positivo
 1450,positivo
 1451,negativo
-1452,negativo
+1452,positivo
 1453,negativo
 1454,positivo
-1455,positivo
+1455,negativo
 1456,positivo
 1457,positivo
-1458,negativo
+1458,positivo
 1459,positivo
 1460,positivo
 1461,positivo
 1462,positivo
 1463,neutral
-1464,positivo
-<<<<<<< HEAD
-1465,negativo
-=======
+1464,negativo
 1465,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1466,negativo
 1467,positivo
 1468,positivo
 1469,positivo
-1470,positivo
+1470,negativo
 1471,neutral
 1472,negativo
-1473,negativo
-<<<<<<< HEAD
-1474,negativo
-=======
+1473,positivo
 1474,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1475,positivo
 1476,negativo
 1477,negativo
@@ -1670,36 +1482,30 @@ id,answer
 1480,negativo
 1481,neutral
 1482,neutral
-1483,positivo
+1483,negativo
 1484,negativo
-1485,negativo
+1485,positivo
 1486,negativo
 1487,negativo
-1488,positivo
+1488,negativo
 1489,neutral
 1490,positivo
 1491,neutral
 1492,positivo
 1493,positivo
-1494,positivo
+1494,negativo
 1495,positivo
 1496,negativo
-1497,positivo
+1497,negativo
 1498,positivo
 1499,positivo
 1500,positivo
 1501,neutral
-1502,negativo
-1503,negativo
-<<<<<<< HEAD
-1504,negativo
-1505,positivo
-1506,positivo
-=======
+1502,positivo
+1503,positivo
 1504,positivo
-1505,negativo
+1505,positivo
 1506,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1507,negativo
 1508,negativo
 1509,negativo
@@ -1709,7 +1515,7 @@ id,answer
 1513,negativo
 1514,negativo
 1515,negativo
-1516,negativo
+1516,positivo
 1517,negativo
 1518,positivo
 1519,negativo
@@ -1719,55 +1525,55 @@ id,answer
 1523,negativo
 1524,negativo
 1525,positivo
-1526,negativo
+1526,positivo
 1527,negativo
 1528,negativo
 1529,positivo
-1530,negativo
-1531,negativo
-1532,positivo
+1530,positivo
+1531,positivo
+1532,negativo
 1533,positivo
 1534,negativo
 1535,positivo
-1536,negativo
+1536,neutral
 1537,negativo
-1538,neutral
+1538,negativo
 1539,neutral
 1540,positivo
-1541,negativo
+1541,positivo
 1542,negativo
-1543,negativo
-1544,negativo
+1543,positivo
+1544,positivo
 1545,positivo
 1546,neutral
 1547,positivo
 1548,positivo
-1549,negativo
+1549,positivo
 1550,neutral
 1551,positivo
-1552,negativo
+1552,positivo
 1553,negativo
 1554,positivo
 1555,neutral
 1556,negativo
-1557,positivo
+1557,negativo
 1558,neutral
 1559,neutral
 1560,positivo
 1561,negativo
 1562,negativo
 1563,positivo
-1564,negativo
+1564,positivo
 1565,positivo
 1566,neutral
 1567,positivo
-1568,positivo
+1568,negativo
 1569,neutral
 1570,positivo
 1571,neutral
 1572,positivo
 1573,positivo
-1574,positivo
+1574,negativo
 1575,neutral
 1576,negativo
 1577,negativo
@@ -1775,7 +1581,7 @@ id,answer
 1579,positivo
 1580,negativo
 1581,negativo
-1582,positivo
+1582,negativo
 1583,negativo
 1584,positivo
 1585,negativo
@@ -1784,39 +1590,28 @@ id,answer
 1588,positivo
 1589,neutral
 1590,positivo
-<<<<<<< HEAD
-1591,negativo
-1592,negativo
-=======
 1591,positivo
 1592,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1593,positivo
 1594,positivo
-1595,negativo
+1595,positivo
 1596,negativo
 1597,neutral
 1598,neutral
-1599,positivo
+1599,negativo
 1600,positivo
 1601,negativo
 1602,neutral
 1603,positivo
 1604,negativo
-1605,positivo
+1605,negativo
 1606,neutral
 1607,negativo
 1608,positivo
 1609,positivo
-<<<<<<< HEAD
-1610,negativo
-1611,negativo
-1612,negativo
-=======
 1610,positivo
-1611,positivo
+1611,negativo
 1612,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1613,positivo
 1614,positivo
 1615,positivo
@@ -1824,7 +1619,7 @@ id,answer
 1617,positivo
 1618,positivo
 1619,positivo
-1620,negativo
+1620,positivo
 1621,neutral
 1622,negativo
 1623,positivo
@@ -1842,23 +1637,19 @@ id,answer
 1635,negativo
 1636,positivo
 1637,positivo
-1638,negativo
+1638,positivo
 1639,positivo
 1640,negativo
 1641,positivo
 1642,negativo
 1643,positivo
 1644,neutral
-1645,positivo
+1645,negativo
 1646,negativo
 1647,negativo
-1648,negativo
+1648,neutral
 1649,positivo
-<<<<<<< HEAD
-1650,positivo
-=======
 1650,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1651,negativo
 1652,positivo
 1653,negativo
@@ -1876,7 +1667,7 @@ id,answer
 1665,positivo
 1666,positivo
 1667,positivo
-1668,negativo
+1668,positivo
 1669,positivo
 1670,positivo
 1671,positivo
@@ -1911,13 +1702,13 @@ id,answer
 1700,neutral
 1701,positivo
 1702,positivo
-1703,positivo
-1704,negativo
+1703,negativo
+1704,positivo
 1705,positivo
 1706,positivo
 1707,negativo
 1708,neutral
-1709,negativo
+1709,positivo
 1710,neutral
 1711,positivo
 1712,neutral
@@ -1932,57 +1723,44 @@ id,answer
 1721,negativo
 1722,neutral
 1723,positivo
-1724,negativo
+1724,positivo
 1725,positivo
-<<<<<<< HEAD
 1726,positivo
-1727,negativo
-=======
-1726,negativo
 1727,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1728,negativo
 1729,positivo
 1730,negativo
 1731,positivo
 1732,positivo
 1733,negativo
-1734,negativo
+1734,positivo
 1735,positivo
 1736,negativo
 1737,positivo
 1738,neutral
-1739,positivo
+1739,negativo
 1740,positivo
-1741,positivo
+1741,negativo
 1742,positivo
 1743,negativo
 1744,negativo
 1745,negativo
 1746,positivo
 1747,positivo
-<<<<<<< HEAD
 1748,negativo
-1749,positivo
-1750,negativo
-1751,negativo
-1752,negativo
-=======
-1748,positivo
-1749,positivo
+1749,negativo
 1750,negativo
 1751,negativo
 1752,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-1753,positivo
+1753,negativo
 1754,negativo
-1755,negativo
+1755,positivo
 1756,negativo
 1757,negativo
 1758,neutral
-1759,positivo
+1759,negativo
 1760,neutral
-1761,positivo
+1761,negativo
 1762,positivo
 1763,negativo
 1764,positivo
@@ -2005,10 +1783,10 @@ id,answer
 1781,neutral
 1782,neutral
 1783,negativo
-1784,negativo
+1784,positivo
 1785,neutral
 1786,neutral
-1787,positivo
+1787,negativo
 1788,neutral
 1789,negativo
 1790,negativo
@@ -2023,22 +1801,18 @@ id,answer
 1799,neutral
 1800,negativo
 1801,positivo
-1802,negativo
+1802,positivo
 1803,positivo
 1804,positivo
 1805,neutral
 1806,positivo
 1807,neutral
-1808,negativo
-<<<<<<< HEAD
+1808,neutral
 1809,negativo
-=======
-1809,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1810,negativo
 1811,negativo
-1812,negativo
-1813,negativo
+1812,positivo
+1813,positivo
 1814,negativo
 1815,positivo
 1816,negativo
@@ -2050,7 +1824,7 @@ id,answer
 1822,positivo
 1823,positivo
 1824,positivo
-1825,negativo
+1825,positivo
 1826,positivo
 1827,negativo
 1828,negativo
@@ -2066,13 +1840,8 @@ id,answer
 1838,positivo
 1839,positivo
 1840,negativo
-<<<<<<< HEAD
-1841,negativo
-1842,neutral
-=======
 1841,positivo
 1842,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1843,neutral
 1844,negativo
 1845,positivo
@@ -2083,31 +1852,31 @@ id,answer
 1850,positivo
 1851,negativo
 1852,negativo
-1853,negativo
+1853,positivo
 1854,positivo
 1855,positivo
 1856,neutral
-1857,negativo
+1857,positivo
 1858,negativo
 1859,positivo
 1860,positivo
-1861,positivo
+1861,negativo
 1862,positivo
 1863,positivo
 1864,negativo
 1865,positivo
 1866,negativo
 1867,neutral
-1868,negativo
+1868,positivo
 1869,positivo
 1870,positivo
-1871,neutral
-1872,positivo
+1871,positivo
+1872,negativo
 1873,neutral
 1874,negativo
 1875,positivo
 1876,negativo
-1877,positivo
+1877,negativo
 1878,negativo
 1879,positivo
 1880,negativo
@@ -2120,26 +1889,22 @@ id,answer
 1887,positivo
 1888,positivo
 1889,neutral
-1890,positivo
+1890,negativo
 1891,negativo
 1892,negativo
 1893,negativo
-<<<<<<< HEAD
-1894,positivo
-=======
 1894,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 1895,negativo
 1896,positivo
-1897,negativo
+1897,positivo
 1898,negativo
 1899,positivo
 1900,positivo
 1901,positivo
-1902,positivo
+1902,negativo
 1903,positivo
 1904,negativo
-1905,negativo
+1905,positivo
 1906,positivo
 1907,positivo
 1908,positivo
@@ -2149,15 +1914,9 @@ id,answer
 1912,neutral
 1913,neutral
 1914,negativo
-<<<<<<< HEAD
-1915,negativo
-1916,positivo
-1917,negativo
-=======
 1915,positivo
-1916,positivo
-1917,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+1916,negativo
+1917,negativo
 1918,neutral
 1919,neutral
 1920,negativo
@@ -2165,21 +1924,21 @@ id,answer
 1922,negativo
 1923,negativo
 1924,negativo
-1925,negativo
+1925,positivo
 1926,neutral
 1927,negativo
 1928,neutral
 1929,neutral
 1930,neutral
-1931,positivo
+1931,negativo
 1932,neutral
 1933,negativo
-1934,positivo
+1934,negativo
 1935,neutral
 1936,neutral
 1937,neutral
 1938,neutral
-1939,negativo
+1939,positivo
 1940,neutral
 1941,negativo
 1942,positivo
@@ -2205,7 +1964,7 @@ id,answer
 1962,negativo
 1963,negativo
 1964,negativo
-1965,negativo
+1965,positivo
 1966,neutral
 1967,negativo
 1968,neutral
@@ -2213,7 +1972,7 @@ id,answer
 1970,positivo
 1971,positivo
 1972,negativo
-1973,negativo
+1973,positivo
 1974,positivo
 1975,neutral
 1976,positivo
@@ -2230,11 +1989,11 @@ id,answer
 1987,positivo
 1988,neutral
 1989,negativo
-1990,positivo
+1990,negativo
 1991,positivo
 1992,negativo
-1993,positivo
-1994,negativo
+1993,neutral
+1994,positivo
 1995,positivo
 1996,neutral
 1997,neutral
@@ -2246,23 +2005,14 @@ id,answer
 2003,positivo
 2004,positivo
 2005,negativo
-2006,positivo
+2006,negativo
 2007,negativo
-<<<<<<< HEAD
-2008,positivo
-2009,positivo
-2010,positivo
-2011,positivo
-2012,negativo
-2013,negativo
-=======
 2008,negativo
 2009,positivo
 2010,positivo
-2011,negativo
+2011,positivo
 2012,positivo
 2013,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2014,negativo
 2015,negativo
 2016,negativo
@@ -2270,28 +2020,23 @@ id,answer
 2018,positivo
 2019,positivo
 2020,positivo
-2021,negativo
-2022,negativo
+2021,positivo
+2022,positivo
 2023,negativo
 2024,positivo
 2025,neutral
-2026,negativo
+2026,neutral
 2027,negativo
 2028,positivo
-<<<<<<< HEAD
 2029,negativo
-2030,negativo
-=======
-2029,positivo
 2030,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2031,neutral
 2032,neutral
 2033,negativo
 2034,positivo
 2035,negativo
 2036,positivo
-2037,negativo
+2037,neutral
 2038,neutral
 2039,neutral
 2040,negativo
@@ -2310,10 +2055,10 @@ id,answer
 2053,positivo
 2054,neutral
 2055,neutral
-2056,positivo
+2056,negativo
 2057,negativo
 2058,positivo
-2059,negativo
+2059,positivo
 2060,positivo
 2061,positivo
 2062,positivo
@@ -2326,22 +2071,17 @@ id,answer
 2069,negativo
 2070,positivo
 2071,negativo
-2072,positivo
+2072,negativo
 2073,negativo
 2074,positivo
 2075,neutral
 2076,negativo
-<<<<<<< HEAD
 2077,positivo
-2078,positivo
-=======
-2077,negativo
 2078,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2079,negativo
-2080,negativo
+2080,positivo
 2081,positivo
-2082,negativo
+2082,positivo
 2083,negativo
 2084,positivo
 2085,positivo
@@ -2353,20 +2093,16 @@ id,answer
 2091,negativo
 2092,neutral
 2093,positivo
-2094,negativo
+2094,positivo
 2095,negativo
 2096,positivo
 2097,negativo
-2098,positivo
+2098,negativo
 2099,positivo
-2100,positivo
+2100,negativo
 2101,positivo
-2102,positivo
-<<<<<<< HEAD
-2103,negativo
-=======
+2102,negativo
 2103,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2104,negativo
 2105,negativo
 2106,negativo
@@ -2375,17 +2111,12 @@ id,answer
 2109,positivo
 2110,positivo
 2111,positivo
-2112,neutral
+2112,positivo
 2113,positivo
 2114,positivo
 2115,positivo
-<<<<<<< HEAD
-2116,negativo
-2117,neutral
-=======
 2116,positivo
-2117,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2117,neutral
 2118,positivo
 2119,negativo
 2120,negativo
@@ -2395,8 +2126,8 @@ id,answer
 2124,positivo
 2125,negativo
 2126,positivo
-2127,positivo
-2128,negativo
+2127,negativo
+2128,positivo
 2129,positivo
 2130,positivo
 2131,positivo
@@ -2411,12 +2142,12 @@ id,answer
 2140,negativo
 2141,negativo
 2142,positivo
-2143,positivo
+2143,negativo
 2144,neutral
 2145,negativo
 2146,positivo
 2147,negativo
-2148,positivo
+2148,negativo
 2149,negativo
 2150,negativo
 2151,negativo
@@ -2437,11 +2168,11 @@ id,answer
 2166,neutral
 2167,positivo
 2168,neutral
-2169,positivo
+2169,negativo
 2170,negativo
 2171,neutral
 2172,negativo
-2173,negativo
+2173,positivo
 2174,negativo
 2175,positivo
 2176,negativo
@@ -2449,17 +2180,13 @@ id,answer
 2178,positivo
 2179,positivo
 2180,negativo
-2181,positivo
+2181,negativo
 2182,positivo
 2183,positivo
 2184,positivo
 2185,negativo
-<<<<<<< HEAD
-2186,negativo
-=======
 2186,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-2187,neutral
+2187,negativo
 2188,positivo
 2189,negativo
 2190,neutral
@@ -2470,19 +2197,15 @@ id,answer
 2195,neutral
 2196,negativo
 2197,neutral
-2198,positivo
+2198,negativo
 2199,positivo
-2200,negativo
+2200,positivo
 2201,negativo
 2202,positivo
 2203,negativo
 2204,neutral
 2205,negativo
-<<<<<<< HEAD
-2206,negativo
-=======
 2206,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2207,positivo
 2208,positivo
 2209,negativo
@@ -2505,9 +2228,9 @@ id,answer
 2226,negativo
 2227,negativo
 2228,positivo
-2229,neutral
+2229,negativo
 2230,negativo
-2231,negativo
+2231,neutral
 2232,neutral
 2233,positivo
 2234,positivo
@@ -2516,7 +2239,7 @@ id,answer
 2237,negativo
 2238,positivo
 2239,positivo
-2240,negativo
+2240,positivo
 2241,negativo
 2242,negativo
 2243,neutral
@@ -2529,10 +2252,10 @@ id,answer
 2250,positivo
 2251,neutral
 2252,negativo
-2253,positivo
+2253,negativo
 2254,neutral
 2255,negativo
-2256,positivo
+2256,negativo
 2257,positivo
 2258,positivo
 2259,positivo
@@ -2551,23 +2274,18 @@ id,answer
 2272,positivo
 2273,positivo
 2274,negativo
-<<<<<<< HEAD
 2275,negativo
-2276,negativo
-=======
-2275,positivo
 2276,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2277,negativo
 2278,positivo
 2279,negativo
 2280,positivo
 2281,positivo
-2282,negativo
+2282,positivo
 2283,neutral
 2284,positivo
 2285,neutral
-2286,negativo
+2286,positivo
 2287,negativo
 2288,negativo
 2289,negativo
@@ -2580,10 +2298,10 @@ id,answer
 2296,negativo
 2297,positivo
 2298,positivo
-2299,positivo
+2299,negativo
 2300,negativo
 2301,negativo
-2302,negativo
+2302,positivo
 2303,positivo
 2304,positivo
 2305,neutral
@@ -2595,20 +2313,8 @@ id,answer
 2311,neutral
 2312,negativo
 2313,positivo
-2314,negativo
-2315,positivo
-<<<<<<< HEAD
-2316,negativo
-2317,positivo
-2318,positivo
-2319,negativo
-2320,positivo
-2321,positivo
-2322,negativo
-2323,negativo
-2324,negativo
-2325,positivo
-=======
+2314,positivo
+2315,negativo
 2316,positivo
 2317,positivo
 2318,positivo
@@ -2618,14 +2324,13 @@ id,answer
 2322,positivo
 2323,positivo
 2324,positivo
-2325,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2325,positivo
 2326,neutral
 2327,positivo
 2328,positivo
 2329,negativo
 2330,neutral
-2331,neutral
+2331,positivo
 2332,neutral
 2333,negativo
 2334,neutral
@@ -2635,31 +2340,21 @@ id,answer
 2338,negativo
 2339,neutral
 2340,neutral
-2341,negativo
-2342,negativo
+2341,positivo
+2342,positivo
 2343,negativo
 2344,negativo
 2345,positivo
-<<<<<<< HEAD
-2346,negativo
-2347,positivo
-2348,positivo
-=======
 2346,positivo
 2347,negativo
 2348,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2349,negativo
 2350,positivo
 2351,neutral
 2352,negativo
-2353,positivo
+2353,negativo
 2354,negativo
-<<<<<<< HEAD
-2355,positivo
-=======
 2355,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2356,positivo
 2357,neutral
 2358,negativo
@@ -2669,33 +2364,29 @@ id,answer
 2362,negativo
 2363,negativo
 2364,negativo
-2365,positivo
-2366,negativo
+2365,negativo
+2366,positivo
 2367,neutral
-2368,negativo
-2369,positivo
+2368,positivo
+2369,negativo
 2370,positivo
-2371,negativo
-<<<<<<< HEAD
-2372,negativo
-=======
+2371,positivo
 2372,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2373,negativo
-2374,positivo
+2374,negativo
 2375,positivo
 2376,negativo
 2377,negativo
 2378,positivo
 2379,negativo
 2380,positivo
-2381,positivo
+2381,negativo
 2382,neutral
 2383,negativo
 2384,positivo
 2385,neutral
-2386,negativo
-2387,negativo
+2386,positivo
+2387,positivo
 2388,negativo
 2389,negativo
 2390,neutral
@@ -2724,25 +2415,19 @@ id,answer
 2413,negativo
 2414,negativo
 2415,neutral
-<<<<<<< HEAD
-2416,negativo
-2417,negativo
-2418,negativo
-=======
 2416,positivo
 2417,negativo
-2418,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2418,negativo
 2419,positivo
 2420,positivo
 2421,neutral
-2422,positivo
+2422,negativo
 2423,negativo
 2424,positivo
 2425,negativo
 2426,positivo
 2427,positivo
-2428,positivo
+2428,negativo
 2429,positivo
 2430,negativo
 2431,positivo
@@ -2750,8 +2435,8 @@ id,answer
 2433,negativo
 2434,neutral
 2435,positivo
-2436,negativo
-2437,negativo
+2436,positivo
+2437,positivo
 2438,positivo
 2439,neutral
 2440,neutral
@@ -2768,7 +2453,7 @@ id,answer
 2451,positivo
 2452,negativo
 2453,negativo
-2454,positivo
+2454,neutral
 2455,negativo
 2456,negativo
 2457,negativo
@@ -2781,15 +2466,9 @@ id,answer
 2464,negativo
 2465,negativo
 2466,neutral
-<<<<<<< HEAD
-2467,positivo
-2468,negativo
-2469,positivo
-=======
 2467,negativo
 2468,positivo
-2469,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2469,positivo
 2470,neutral
 2471,positivo
 2472,positivo
@@ -2809,30 +2488,26 @@ id,answer
 2486,negativo
 2487,negativo
 2488,positivo
-2489,negativo
+2489,positivo
 2490,positivo
 2491,negativo
 2492,positivo
 2493,positivo
-2494,positivo
+2494,negativo
 2495,positivo
 2496,negativo
 2497,neutral
 2498,negativo
 2499,negativo
 2500,positivo
-2501,negativo
+2501,positivo
 2502,positivo
 2503,positivo
 2504,negativo
 2505,negativo
 2506,neutral
-<<<<<<< HEAD
-2507,positivo
-=======
 2507,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-2508,negativo
+2508,positivo
 2509,negativo
 2510,positivo
 2511,negativo
@@ -2842,7 +2517,7 @@ id,answer
 2515,negativo
 2516,neutral
 2517,negativo
-2518,positivo
+2518,negativo
 2519,neutral
 2520,positivo
 2521,positivo
@@ -2850,9 +2525,9 @@ id,answer
 2523,positivo
 2524,negativo
 2525,negativo
-2526,negativo
+2526,positivo
 2527,negativo
-2528,negativo
+2528,positivo
 2529,positivo
 2530,positivo
 2531,negativo
@@ -2871,24 +2546,19 @@ id,answer
 2544,negativo
 2545,positivo
 2546,negativo
-2547,negativo
+2547,positivo
 2548,neutral
 2549,neutral
 2550,negativo
 2551,negativo
 2552,negativo
-2553,negativo
+2553,positivo
 2554,positivo
-2555,negativo
+2555,positivo
 2556,neutral
 2557,positivo
-<<<<<<< HEAD
 2558,positivo
-2559,neutral
-=======
-2558,negativo
-2559,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2559,positivo
 2560,positivo
 2561,neutral
 2562,negativo
@@ -2897,22 +2567,22 @@ id,answer
 2565,negativo
 2566,negativo
 2567,positivo
-2568,negativo
+2568,positivo
 2569,positivo
 2570,positivo
 2571,negativo
 2572,neutral
 2573,negativo
-2574,negativo
+2574,positivo
 2575,negativo
 2576,negativo
 2577,positivo
-2578,negativo
+2578,positivo
 2579,negativo
 2580,negativo
 2581,positivo
 2582,neutral
-2583,negativo
+2583,positivo
 2584,negativo
 2585,negativo
 2586,negativo
@@ -2920,30 +2590,30 @@ id,answer
 2588,negativo
 2589,negativo
 2590,positivo
-2591,negativo
+2591,positivo
 2592,neutral
-2593,negativo
+2593,positivo
 2594,positivo
 2595,neutral
 2596,positivo
 2597,negativo
 2598,positivo
-2599,negativo
+2599,positivo
 2600,negativo
 2601,negativo
-2602,negativo
+2602,positivo
 2603,neutral
-2604,negativo
+2604,positivo
 2605,negativo
 2606,neutral
 2607,neutral
 2608,positivo
-2609,negativo
+2609,positivo
 2610,negativo
 2611,positivo
 2612,negativo
 2613,negativo
-2614,negativo
+2614,positivo
 2615,negativo
 2616,negativo
 2617,positivo
@@ -2956,8 +2626,8 @@ id,answer
 2624,neutral
 2625,positivo
 2626,positivo
-2627,negativo
-2628,positivo
+2627,positivo
+2628,negativo
 2629,negativo
 2630,negativo
 2631,negativo
@@ -2980,12 +2650,12 @@ id,answer
 2648,neutral
 2649,neutral
 2650,negativo
-2651,negativo
+2651,positivo
 2652,positivo
 2653,negativo
 2654,positivo
 2655,negativo
-2656,neutral
+2656,positivo
 2657,positivo
 2658,positivo
 2659,negativo
@@ -2995,11 +2665,11 @@ id,answer
 2663,neutral
 2664,positivo
 2665,negativo
-2666,negativo
+2666,positivo
 2667,negativo
 2668,positivo
 2669,positivo
-2670,positivo
+2670,negativo
 2671,negativo
 2672,positivo
 2673,neutral
@@ -3017,22 +2687,17 @@ id,answer
 2685,negativo
 2686,neutral
 2687,negativo
-2688,positivo
+2688,negativo
 2689,negativo
 2690,neutral
 2691,negativo
-<<<<<<< HEAD
 2692,negativo
-2693,positivo
-=======
-2692,positivo
 2693,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2694,negativo
 2695,negativo
 2696,negativo
 2697,negativo
-2698,positivo
+2698,negativo
 2699,positivo
 2700,positivo
 2701,neutral
@@ -3051,8 +2716,8 @@ id,answer
 2714,neutral
 2715,negativo
 2716,positivo
-2717,negativo
-2718,positivo
+2717,positivo
+2718,negativo
 2719,negativo
 2720,negativo
 2721,negativo
@@ -3060,27 +2725,18 @@ id,answer
 2723,positivo
 2724,positivo
 2725,negativo
-2726,negativo
+2726,positivo
 2727,neutral
-<<<<<<< HEAD
 2728,positivo
-2729,positivo
-=======
-2728,negativo
 2729,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2730,neutral
-2731,negativo
+2731,positivo
 2732,negativo
 2733,neutral
 2734,neutral
 2735,negativo
 2736,positivo
-<<<<<<< HEAD
-2737,negativo
-=======
 2737,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2738,negativo
 2739,neutral
 2740,positivo
@@ -3090,7 +2746,7 @@ id,answer
 2744,positivo
 2745,positivo
 2746,negativo
-2747,negativo
+2747,positivo
 2748,neutral
 2749,negativo
 2750,neutral
@@ -3129,7 +2785,7 @@ id,answer
 2783,positivo
 2784,neutral
 2785,positivo
-2786,positivo
+2786,negativo
 2787,positivo
 2788,neutral
 2789,positivo
@@ -3137,7 +2793,7 @@ id,answer
 2791,negativo
 2792,neutral
 2793,negativo
-2794,negativo
+2794,positivo
 2795,negativo
 2796,positivo
 2797,positivo
@@ -3158,17 +2814,17 @@ id,answer
 2812,neutral
 2813,positivo
 2814,positivo
-2815,neutral
-2816,negativo
+2815,positivo
+2816,positivo
 2817,neutral
-2818,negativo
+2818,positivo
 2819,neutral
-2820,positivo
-2821,negativo
+2820,negativo
+2821,positivo
 2822,neutral
 2823,positivo
 2824,neutral
-2825,positivo
+2825,negativo
 2826,negativo
 2827,negativo
 2828,negativo
@@ -3204,17 +2860,13 @@ id,answer
 2858,negativo
 2859,negativo
 2860,negativo
-2861,positivo
+2861,negativo
 2862,negativo
 2863,positivo
 2864,positivo
 2865,positivo
 2866,positivo
-<<<<<<< HEAD
-2867,positivo
-=======
 2867,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2868,positivo
 2869,negativo
 2870,positivo
@@ -3228,8 +2880,8 @@ id,answer
 2878,negativo
 2879,neutral
 2880,positivo
-2881,positivo
-2882,negativo
+2881,negativo
+2882,positivo
 2883,positivo
 2884,negativo
 2885,positivo
@@ -3243,7 +2895,7 @@ id,answer
 2893,negativo
 2894,positivo
 2895,positivo
-2896,negativo
+2896,positivo
 2897,positivo
 2898,positivo
 2899,negativo
@@ -3252,13 +2904,9 @@ id,answer
 2902,negativo
 2903,positivo
 2904,positivo
-2905,positivo
+2905,negativo
 2906,positivo
-<<<<<<< HEAD
-2907,positivo
-=======
 2907,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2908,positivo
 2909,positivo
 2910,negativo
@@ -3269,10 +2917,10 @@ id,answer
 2915,negativo
 2916,negativo
 2917,negativo
-2918,negativo
+2918,positivo
 2919,positivo
 2920,neutral
-2921,positivo
+2921,negativo
 2922,negativo
 2923,negativo
 2924,neutral
@@ -3297,53 +2945,38 @@ id,answer
 2943,negativo
 2944,negativo
 2945,negativo
-2946,negativo
+2946,positivo
 2947,positivo
-2948,negativo
+2948,positivo
 2949,positivo
 2950,negativo
 2951,negativo
 2952,neutral
 2953,negativo
 2954,positivo
-<<<<<<< HEAD
 2955,positivo
-=======
-2955,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2956,negativo
 2957,negativo
 2958,positivo
 2959,negativo
-<<<<<<< HEAD
 2960,negativo
 2961,positivo
-=======
-2960,positivo
-2961,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 2962,positivo
 2963,positivo
 2964,negativo
 2965,neutral
 2966,negativo
-2967,positivo
+2967,negativo
 2968,negativo
-2969,negativo
-<<<<<<< HEAD
-2970,positivo
-2971,negativo
-2972,negativo
-=======
+2969,positivo
 2970,negativo
 2971,positivo
-2972,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+2972,negativo
 2973,negativo
 2974,negativo
-2975,negativo
+2975,positivo
 2976,negativo
-2977,positivo
+2977,negativo
 2978,negativo
 2979,negativo
 2980,neutral
@@ -3351,10 +2984,10 @@ id,answer
 2982,positivo
 2983,positivo
 2984,positivo
-2985,negativo
+2985,positivo
 2986,neutral
 2987,positivo
-2988,neutral
+2988,positivo
 2989,negativo
 2990,neutral
 2991,positivo
@@ -3376,41 +3009,32 @@ id,answer
 3007,negativo
 3008,neutral
 3009,positivo
-3010,negativo
+3010,positivo
 3011,negativo
-3012,negativo
-3013,negativo
-3014,positivo
+3012,positivo
+3013,positivo
+3014,negativo
 3015,positivo
-3016,negativo
+3016,positivo
 3017,neutral
-3018,negativo
+3018,positivo
 3019,negativo
 3020,neutral
 3021,positivo
 3022,negativo
 3023,positivo
 3024,neutral
-<<<<<<< HEAD
-3025,negativo
-3026,negativo
-=======
 3025,positivo
 3026,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3027,negativo
+3027,positivo
 3028,negativo
 3029,negativo
 3030,positivo
 3031,negativo
-3032,positivo
+3032,negativo
 3033,positivo
 3034,negativo
-<<<<<<< HEAD
 3035,positivo
-=======
-3035,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3036,positivo
 3037,neutral
 3038,neutral
@@ -3433,8 +3057,8 @@ id,answer
 3055,negativo
 3056,positivo
 3057,neutral
-3058,positivo
-3059,positivo
+3058,negativo
+3059,negativo
 3060,negativo
 3061,negativo
 3062,positivo
@@ -3468,25 +3092,20 @@ id,answer
 3090,negativo
 3091,negativo
 3092,negativo
-3093,negativo
+3093,positivo
 3094,neutral
-3095,neutral
+3095,negativo
 3096,negativo
-<<<<<<< HEAD
-3097,negativo
-3098,neutral
-=======
 3097,neutral
 3098,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3099,negativo
 3100,neutral
 3101,negativo
 3102,negativo
-3103,positivo
+3103,negativo
 3104,negativo
 3105,negativo
-3106,negativo
+3106,positivo
 3107,positivo
 3108,negativo
 3109,positivo
@@ -3498,8 +3117,8 @@ id,answer
 3115,positivo
 3116,negativo
 3117,neutral
-3118,positivo
-3119,positivo
+3118,negativo
+3119,negativo
 3120,positivo
 3121,negativo
 3122,negativo
@@ -3529,24 +3148,19 @@ id,answer
 3146,neutral
 3147,positivo
 3148,negativo
-3149,negativo
+3149,positivo
 3150,positivo
 3151,positivo
-<<<<<<< HEAD
 3152,negativo
 3153,positivo
-=======
-3152,positivo
-3153,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3154,neutral
 3155,negativo
-3156,negativo
+3156,positivo
 3157,positivo
 3158,positivo
 3159,neutral
 3160,neutral
-3161,negativo
+3161,positivo
 3162,negativo
 3163,positivo
 3164,neutral
@@ -3557,7 +3171,7 @@ id,answer
 3169,negativo
 3170,negativo
 3171,neutral
-3172,positivo
+3172,negativo
 3173,negativo
 3174,positivo
 3175,negativo
@@ -3578,14 +3192,10 @@ id,answer
 3190,positivo
 3191,negativo
 3192,negativo
-<<<<<<< HEAD
 3193,positivo
-=======
-3193,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3194,negativo
 3195,positivo
-3196,neutral
+3196,positivo
 3197,negativo
 3198,negativo
 3199,positivo
@@ -3610,15 +3220,10 @@ id,answer
 3218,positivo
 3219,negativo
 3220,neutral
-3221,negativo
+3221,positivo
 3222,negativo
-<<<<<<< HEAD
-3223,negativo
-3224,positivo
-=======
 3223,positivo
 3224,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3225,positivo
 3226,positivo
 3227,positivo
@@ -3635,16 +3240,10 @@ id,answer
 3238,neutral
 3239,positivo
 3240,negativo
-<<<<<<< HEAD
-3241,negativo
-3242,negativo
-3243,positivo
-=======
 3241,positivo
 3242,positivo
-3243,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3244,positivo
+3243,positivo
+3244,negativo
 3245,neutral
 3246,neutral
 3247,negativo
@@ -3659,14 +3258,10 @@ id,answer
 3256,positivo
 3257,positivo
 3258,neutral
-<<<<<<< HEAD
-3259,negativo
-=======
 3259,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3260,positivo
 3261,negativo
-3262,negativo
+3262,positivo
 3263,neutral
 3264,negativo
 3265,negativo
@@ -3681,7 +3276,7 @@ id,answer
 3274,neutral
 3275,positivo
 3276,neutral
-3277,negativo
+3277,positivo
 3278,negativo
 3279,positivo
 3280,positivo
@@ -3694,25 +3289,21 @@ id,answer
 3287,neutral
 3288,positivo
 3289,positivo
-<<<<<<< HEAD
-3290,negativo
-=======
 3290,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3291,positivo
 3292,negativo
 3293,positivo
 3294,positivo
 3295,positivo
 3296,negativo
-3297,negativo
+3297,positivo
 3298,negativo
 3299,negativo
 3300,negativo
 3301,negativo
 3302,neutral
-3303,negativo
-3304,negativo
+3303,positivo
+3304,positivo
 3305,negativo
 3306,negativo
 3307,positivo
@@ -3722,40 +3313,30 @@ id,answer
 3311,neutral
 3312,positivo
 3313,negativo
-3314,negativo
+3314,positivo
 3315,positivo
 3316,negativo
-3317,negativo
+3317,positivo
 3318,negativo
 3319,positivo
 3320,negativo
-<<<<<<< HEAD
-3321,negativo
-3322,negativo
-=======
 3321,positivo
 3322,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3323,positivo
-3324,positivo
+3324,negativo
 3325,negativo
 3326,neutral
-3327,negativo
+3327,positivo
 3328,positivo
 3329,positivo
 3330,negativo
 3331,negativo
 3332,neutral
-3333,negativo
+3333,positivo
 3334,positivo
 3335,negativo
-<<<<<<< HEAD
-3336,positivo
-3337,negativo
-=======
 3336,negativo
 3337,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3338,positivo
 3339,negativo
 3340,negativo
@@ -3763,37 +3344,29 @@ id,answer
 3342,positivo
 3343,positivo
 3344,negativo
-3345,positivo
+3345,negativo
 3346,negativo
-3347,positivo
+3347,negativo
 3348,negativo
 3349,positivo
-<<<<<<< HEAD
-3350,negativo
-=======
 3350,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3351,negativo
 3352,neutral
 3353,neutral
 3354,neutral
 3355,positivo
-3356,negativo
+3356,positivo
 3357,positivo
 3358,positivo
-<<<<<<< HEAD
 3359,negativo
-=======
-3359,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3360,negativo
+3360,positivo
 3361,neutral
 3362,positivo
 3363,negativo
 3364,positivo
 3365,negativo
 3366,positivo
-3367,negativo
+3367,positivo
 3368,neutral
 3369,neutral
 3370,positivo
@@ -3802,21 +3375,17 @@ id,answer
 3373,positivo
 3374,positivo
 3375,positivo
-3376,positivo
-3377,negativo
+3376,negativo
+3377,positivo
 3378,positivo
 3379,negativo
 3380,neutral
 3381,negativo
-<<<<<<< HEAD
-3382,negativo
-=======
 3382,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3383,negativo
+3383,positivo
 3384,negativo
 3385,neutral
-3386,negativo
+3386,positivo
 3387,negativo
 3388,positivo
 3389,negativo
@@ -3826,19 +3395,19 @@ id,answer
 3393,positivo
 3394,neutral
 3395,neutral
-3396,negativo
+3396,positivo
 3397,positivo
-3398,negativo
+3398,neutral
 3399,positivo
 3400,negativo
 3401,positivo
 3402,neutral
-3403,negativo
+3403,positivo
 3404,negativo
 3405,positivo
 3406,positivo
 3407,positivo
-3408,negativo
+3408,positivo
 3409,positivo
 3410,negativo
 3411,neutral
@@ -3849,10 +3418,10 @@ id,answer
 3416,negativo
 3417,negativo
 3418,negativo
-3419,positivo
+3419,negativo
 3420,negativo
 3421,negativo
-3422,negativo
+3422,positivo
 3423,neutral
 3424,negativo
 3425,neutral
@@ -3864,27 +3433,22 @@ id,answer
 3431,positivo
 3432,positivo
 3433,positivo
-<<<<<<< HEAD
 3434,neutral
-3435,positivo
-=======
-3434,positivo
 3435,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3436,negativo
 3437,negativo
 3438,negativo
 3439,negativo
-3440,positivo
+3440,neutral
 3441,positivo
 3442,positivo
-3443,positivo
+3443,negativo
 3444,positivo
 3445,negativo
 3446,negativo
-3447,positivo
+3447,negativo
 3448,positivo
-3449,positivo
+3449,negativo
 3450,negativo
 3451,positivo
 3452,positivo
@@ -3904,25 +3468,19 @@ id,answer
 3466,neutral
 3467,positivo
 3468,negativo
-3469,negativo
-3470,positivo
+3469,positivo
+3470,negativo
 3471,negativo
 3472,negativo
-3473,negativo
+3473,neutral
 3474,negativo
 3475,negativo
 3476,negativo
 3477,negativo
-3478,negativo
-<<<<<<< HEAD
-3479,negativo
-3480,positivo
-3481,negativo
-=======
+3478,positivo
 3479,positivo
-3480,positivo
+3480,negativo
 3481,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3482,neutral
 3483,positivo
 3484,negativo
@@ -3932,21 +3490,15 @@ id,answer
 3488,neutral
 3489,positivo
 3490,negativo
-3491,negativo
+3491,positivo
 3492,negativo
 3493,negativo
-3494,negativo
+3494,positivo
 3495,positivo
-<<<<<<< HEAD
-3496,negativo
-3497,negativo
-3498,positivo
-=======
 3496,positivo
-3497,positivo
+3497,negativo
 3498,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3499,negativo
+3499,neutral
 3500,neutral
 3501,positivo
 3502,positivo
@@ -3954,40 +3506,40 @@ id,answer
 3504,positivo
 3505,positivo
 3506,positivo
-3507,positivo
+3507,negativo
 3508,neutral
 3509,neutral
 3510,negativo
-3511,negativo
+3511,positivo
 3512,neutral
 3513,neutral
 3514,positivo
 3515,neutral
 3516,neutral
-3517,negativo
+3517,positivo
 3518,positivo
 3519,positivo
-3520,negativo
+3520,positivo
 3521,neutral
 3522,positivo
 3523,negativo
 3524,positivo
 3525,positivo
 3526,negativo
-3527,positivo
+3527,negativo
 3528,neutral
-3529,negativo
+3529,positivo
 3530,neutral
-3531,positivo
+3531,negativo
 3532,positivo
-3533,negativo
+3533,positivo
 3534,negativo
 3535,negativo
 3536,negativo
-3537,negativo
+3537,positivo
 3538,positivo
 3539,neutral
-3540,negativo
+3540,positivo
 3541,negativo
 3542,neutral
 3543,positivo
@@ -4000,32 +3552,23 @@ id,answer
 3550,positivo
 3551,positivo
 3552,negativo
-3553,negativo
+3553,positivo
 3554,positivo
 3555,negativo
 3556,neutral
 3557,positivo
-<<<<<<< HEAD
-3558,negativo
-=======
 3558,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3559,negativo
 3560,positivo
 3561,positivo
 3562,negativo
-3563,positivo
+3563,negativo
 3564,negativo
 3565,neutral
 3566,positivo
-3567,negativo
-<<<<<<< HEAD
-3568,positivo
-3569,positivo
-=======
+3567,positivo
 3568,negativo
-3569,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+3569,positivo
 3570,negativo
 3571,positivo
 3572,positivo
@@ -4034,17 +3577,17 @@ id,answer
 3575,positivo
 3576,positivo
 3577,negativo
-3578,positivo
+3578,negativo
 3579,negativo
 3580,neutral
 3581,negativo
-3582,negativo
+3582,positivo
 3583,neutral
 3584,negativo
 3585,positivo
 3586,negativo
 3587,negativo
-3588,negativo
+3588,positivo
 3589,positivo
 3590,positivo
 3591,neutral
@@ -4052,22 +3595,22 @@ id,answer
 3593,negativo
 3594,positivo
 3595,neutral
-3596,positivo
+3596,neutral
 3597,negativo
 3598,negativo
 3599,negativo
 3600,positivo
-3601,positivo
-3602,positivo
+3601,negativo
+3602,negativo
 3603,positivo
-3604,negativo
+3604,positivo
 3605,negativo
-3606,positivo
+3606,negativo
 3607,negativo
 3608,positivo
 3609,negativo
 3610,neutral
-3611,positivo
+3611,negativo
 3612,positivo
 3613,negativo
 3614,negativo
@@ -4084,8 +3627,8 @@ id,answer
 3625,negativo
 3626,positivo
 3627,negativo
-3628,negativo
-3629,positivo
+3628,positivo
+3629,negativo
 3630,negativo
 3631,neutral
 3632,negativo
@@ -4096,13 +3639,8 @@ id,answer
 3637,neutral
 3638,negativo
 3639,negativo
-<<<<<<< HEAD
 3640,negativo
 3641,positivo
-=======
-3640,neutral
-3641,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3642,positivo
 3643,positivo
 3644,neutral
@@ -4110,16 +3648,16 @@ id,answer
 3646,positivo
 3647,negativo
 3648,positivo
-3649,positivo
+3649,negativo
 3650,negativo
 3651,negativo
 3652,positivo
 3653,positivo
-3654,positivo
+3654,negativo
 3655,negativo
 3656,positivo
 3657,negativo
-3658,positivo
+3658,negativo
 3659,positivo
 3660,negativo
 3661,positivo
@@ -4130,17 +3668,13 @@ id,answer
 3666,negativo
 3667,negativo
 3668,negativo
-3669,positivo
+3669,negativo
 3670,neutral
 3671,positivo
 3672,positivo
 3673,neutral
 3674,positivo
-<<<<<<< HEAD
-3675,neutral
-=======
 3675,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3676,neutral
 3677,negativo
 3678,positivo
@@ -4156,11 +3690,7 @@ id,answer
 3688,neutral
 3689,negativo
 3690,positivo
-<<<<<<< HEAD
-3691,negativo
-=======
-3691,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+3691,positivo
 3692,positivo
 3693,positivo
 3694,positivo
@@ -4171,28 +3701,23 @@ id,answer
 3699,negativo
 3700,negativo
 3701,positivo
-3702,negativo
-3703,positivo
+3702,positivo
+3703,negativo
 3704,negativo
-3705,positivo
+3705,negativo
 3706,positivo
 3707,positivo
 3708,positivo
 3709,neutral
 3710,positivo
 3711,negativo
-<<<<<<< HEAD
-3712,negativo
-3713,positivo
-=======
 3712,positivo
-3713,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+3713,positivo
 3714,negativo
 3715,negativo
-3716,positivo
-3717,negativo
-3718,negativo
+3716,negativo
+3717,positivo
+3718,positivo
 3719,negativo
 3720,positivo
 3721,negativo
@@ -4200,20 +3725,16 @@ id,answer
 3723,neutral
 3724,negativo
 3725,negativo
-<<<<<<< HEAD
-3726,negativo
-=======
 3726,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3727,negativo
 3728,positivo
-3729,negativo
+3729,positivo
 3730,positivo
 3731,negativo
 3732,positivo
 3733,negativo
 3734,negativo
-3735,positivo
+3735,negativo
 3736,negativo
 3737,negativo
 3738,positivo
@@ -4223,33 +3744,25 @@ id,answer
 3742,positivo
 3743,neutral
 3744,neutral
-3745,negativo
+3745,positivo
 3746,positivo
-3747,negativo
+3747,positivo
 3748,negativo
 3749,negativo
-<<<<<<< HEAD
-3750,positivo
-=======
 3750,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3751,negativo
-3752,positivo
+3751,positivo
+3752,negativo
 3753,neutral
-3754,negativo
+3754,positivo
 3755,negativo
 3756,negativo
-3757,positivo
+3757,negativo
 3758,negativo
 3759,neutral
 3760,neutral
 3761,positivo
 3762,negativo
-<<<<<<< HEAD
-3763,positivo
-=======
-3763,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+3763,neutral
 3764,positivo
 3765,positivo
 3766,negativo
@@ -4287,16 +3800,16 @@ id,answer
 3798,negativo
 3799,positivo
 3800,negativo
-3801,negativo
+3801,positivo
 3802,neutral
 3803,negativo
 3804,negativo
-3805,positivo
+3805,negativo
 3806,negativo
 3807,positivo
 3808,negativo
 3809,negativo
-3810,negativo
+3810,positivo
 3811,negativo
 3812,negativo
 3813,negativo
@@ -4309,51 +3822,37 @@ id,answer
 3820,negativo
 3821,positivo
 3822,positivo
-<<<<<<< HEAD
-3823,negativo
-3824,positivo
-=======
 3823,positivo
 3824,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3825,negativo
 3826,neutral
-3827,negativo
-3828,negativo
+3827,positivo
+3828,neutral
 3829,positivo
 3830,positivo
-3831,positivo
+3831,negativo
 3832,neutral
 3833,positivo
 3834,positivo
 3835,positivo
-<<<<<<< HEAD
-3836,neutral
-3837,positivo
-=======
 3836,positivo
 3837,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3838,positivo
 3839,neutral
 3840,positivo
 3841,neutral
 3842,negativo
 3843,negativo
-3844,positivo
+3844,negativo
 3845,positivo
 3846,negativo
 3847,neutral
 3848,positivo
-<<<<<<< HEAD
-3849,negativo
-=======
 3849,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-3850,negativo
+3850,positivo
 3851,negativo
 3852,negativo
-3853,negativo
+3853,positivo
 3854,positivo
 3855,neutral
 3856,negativo
@@ -4362,15 +3861,15 @@ id,answer
 3859,neutral
 3860,neutral
 3861,positivo
-3862,negativo
+3862,positivo
 3863,positivo
-3864,positivo
+3864,negativo
 3865,positivo
 3866,negativo
 3867,positivo
 3868,positivo
 3869,positivo
-3870,positivo
+3870,negativo
 3871,positivo
 3872,positivo
 3873,negativo
@@ -4381,15 +3880,15 @@ id,answer
 3878,positivo
 3879,negativo
 3880,negativo
-3881,negativo
+3881,positivo
 3882,neutral
 3883,negativo
-3884,positivo
+3884,negativo
 3885,neutral
 3886,neutral
 3887,positivo
-3888,negativo
-3889,negativo
+3888,positivo
+3889,positivo
 3890,positivo
 3891,negativo
 3892,negativo
@@ -4398,18 +3897,14 @@ id,answer
 3895,positivo
 3896,negativo
 3897,neutral
-<<<<<<< HEAD
 3898,negativo
-=======
-3898,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3899,negativo
 3900,negativo
 3901,positivo
 3902,negativo
 3903,negativo
 3904,negativo
-3905,negativo
+3905,positivo
 3906,positivo
 3907,positivo
 3908,positivo
@@ -4419,11 +3914,7 @@ id,answer
 3912,positivo
 3913,negativo
 3914,negativo
-<<<<<<< HEAD
-3915,negativo
-=======
 3915,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3916,positivo
 3917,negativo
 3918,neutral
@@ -4434,17 +3925,11 @@ id,answer
 3923,neutral
 3924,positivo
 3925,positivo
-3926,positivo
+3926,negativo
 3927,neutral
-<<<<<<< HEAD
-3928,negativo
+3928,positivo
 3929,positivo
 3930,negativo
-=======
-3928,positivo
-3929,negativo
-3930,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3931,negativo
 3932,positivo
 3933,negativo
@@ -4457,30 +3942,21 @@ id,answer
 3940,negativo
 3941,positivo
 3942,positivo
-3943,positivo
+3943,negativo
 3944,positivo
 3945,positivo
-<<<<<<< HEAD
-3946,positivo
-3947,negativo
-=======
 3946,negativo
 3947,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3948,negativo
 3949,positivo
 3950,negativo
-3951,positivo
+3951,negativo
 3952,neutral
 3953,negativo
 3954,positivo
 3955,negativo
 3956,negativo
-<<<<<<< HEAD
 3957,neutral
-=======
-3957,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3958,positivo
 3959,negativo
 3960,positivo
@@ -4490,34 +3966,30 @@ id,answer
 3964,positivo
 3965,positivo
 3966,neutral
-3967,positivo
+3967,negativo
 3968,negativo
 3969,positivo
-3970,negativo
-3971,negativo
+3970,positivo
+3971,positivo
 3972,negativo
 3973,neutral
 3974,positivo
 3975,positivo
-3976,positivo
+3976,negativo
 3977,positivo
 3978,negativo
 3979,neutral
 3980,positivo
 3981,negativo
 3982,positivo
-3983,negativo
+3983,positivo
 3984,negativo
 3985,neutral
 3986,positivo
 3987,negativo
 3988,negativo
 3989,positivo
-<<<<<<< HEAD
-3990,negativo
-=======
 3990,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 3991,negativo
 3992,negativo
 3993,negativo
@@ -4525,7 +3997,7 @@ id,answer
 3995,positivo
 3996,neutral
 3997,negativo
-3998,positivo
+3998,negativo
 3999,positivo
 4000,neutral
 4001,negativo
@@ -4535,15 +4007,9 @@ id,answer
 4005,negativo
 4006,neutral
 4007,positivo
-<<<<<<< HEAD
 4008,negativo
-4009,negativo
-4010,positivo
-=======
-4008,positivo
 4009,positivo
 4010,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4011,negativo
 4012,negativo
 4013,positivo
@@ -4557,13 +4023,8 @@ id,answer
 4021,positivo
 4022,neutral
 4023,negativo
-<<<<<<< HEAD
-4024,negativo
-4025,positivo
-=======
 4024,positivo
 4025,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4026,positivo
 4027,negativo
 4028,negativo
@@ -4577,7 +4038,7 @@ id,answer
 4036,positivo
 4037,negativo
 4038,negativo
-4039,negativo
+4039,positivo
 4040,negativo
 4041,negativo
 4042,positivo
@@ -4599,8 +4060,8 @@ id,answer
 4058,negativo
 4059,neutral
 4060,positivo
-4061,negativo
-4062,negativo
+4061,positivo
+4062,positivo
 4063,negativo
 4064,neutral
 4065,negativo
@@ -4610,28 +4071,24 @@ id,answer
 4069,positivo
 4070,negativo
 4071,positivo
-<<<<<<< HEAD
 4072,positivo
-=======
-4072,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-4073,neutral
+4073,positivo
 4074,positivo
 4075,positivo
 4076,positivo
 4077,positivo
 4078,neutral
-4079,positivo
+4079,negativo
 4080,positivo
 4081,negativo
 4082,positivo
-4083,negativo
+4083,positivo
 4084,positivo
 4085,negativo
 4086,positivo
 4087,positivo
-4088,positivo
-4089,negativo
+4088,negativo
+4089,positivo
 4090,positivo
 4091,positivo
 4092,negativo
@@ -4645,8 +4102,8 @@ id,answer
 4100,positivo
 4101,positivo
 4102,negativo
-4103,negativo
-4104,negativo
+4103,positivo
+4104,neutral
 4105,negativo
 4106,positivo
 4107,negativo
@@ -4654,19 +4111,14 @@ id,answer
 4109,neutral
 4110,positivo
 4111,neutral
-<<<<<<< HEAD
-4112,negativo
-4113,negativo
-=======
 4112,positivo
 4113,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4114,negativo
 4115,neutral
 4116,negativo
-4117,positivo
+4117,negativo
 4118,positivo
-4119,negativo
+4119,positivo
 4120,positivo
 4121,positivo
 4122,negativo
@@ -4674,18 +4126,13 @@ id,answer
 4124,positivo
 4125,neutral
 4126,positivo
-4127,negativo
+4127,positivo
 4128,negativo
 4129,neutral
 4130,negativo
 4131,negativo
-<<<<<<< HEAD
-4132,negativo
-4133,positivo
-=======
 4132,positivo
-4133,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+4133,positivo
 4134,negativo
 4135,positivo
 4136,neutral
@@ -4699,7 +4146,7 @@ id,answer
 4144,neutral
 4145,negativo
 4146,positivo
-4147,negativo
+4147,positivo
 4148,positivo
 4149,positivo
 4150,neutral
@@ -4709,20 +4156,16 @@ id,answer
 4154,neutral
 4155,positivo
 4156,neutral
-4157,negativo
-4158,negativo
+4157,positivo
+4158,positivo
 4159,negativo
 4160,positivo
 4161,positivo
 4162,negativo
 4163,neutral
 4164,neutral
-<<<<<<< HEAD
 4165,positivo
-=======
-4165,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-4166,negativo
+4166,positivo
 4167,neutral
 4168,negativo
 4169,negativo
@@ -4731,7 +4174,7 @@ id,answer
 4172,positivo
 4173,neutral
 4174,positivo
-4175,negativo
+4175,positivo
 4176,positivo
 4177,negativo
 4178,negativo
@@ -4750,31 +4193,31 @@ id,answer
 4191,positivo
 4192,negativo
 4193,positivo
-4194,negativo
+4194,positivo
 4195,negativo
 4196,negativo
 4197,positivo
 4198,positivo
 4199,positivo
 4200,positivo
-4201,negativo
+4201,positivo
 4202,positivo
 4203,negativo
 4204,negativo
 4205,negativo
-4206,negativo
+4206,positivo
 4207,negativo
 4208,neutral
 4209,neutral
-4210,negativo
+4210,positivo
 4211,negativo
-4212,positivo
+4212,negativo
 4213,negativo
 4214,neutral
-4215,positivo
+4215,negativo
 4216,neutral
 4217,negativo
-4218,negativo
+4218,positivo
 4219,positivo
 4220,negativo
 4221,negativo
@@ -4783,7 +4226,7 @@ id,answer
 4224,positivo
 4225,positivo
 4226,neutral
-4227,positivo
+4227,neutral
 4228,positivo
 4229,positivo
 4230,positivo
@@ -4794,7 +4237,7 @@ id,answer
 4235,positivo
 4236,positivo
 4237,negativo
-4238,negativo
+4238,positivo
 4239,neutral
 4240,neutral
 4241,positivo
@@ -4823,18 +4266,14 @@ id,answer
 4264,neutral
 4265,positivo
 4266,negativo
-4267,negativo
+4267,positivo
 4268,positivo
 4269,positivo
 4270,positivo
 4271,negativo
-<<<<<<< HEAD
-4272,positivo
-=======
 4272,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4273,positivo
-4274,negativo
+4274,positivo
 4275,positivo
 4276,neutral
 4277,positivo
@@ -4850,20 +4289,15 @@ id,answer
 4287,positivo
 4288,negativo
 4289,positivo
-4290,negativo
+4290,positivo
 4291,neutral
 4292,positivo
 4293,positivo
 4294,negativo
 4295,positivo
 4296,positivo
-<<<<<<< HEAD
-4297,positivo
-4298,negativo
-=======
 4297,negativo
-4298,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+4298,negativo
 4299,positivo
 4300,positivo
 4301,positivo
@@ -4872,7 +4306,7 @@ id,answer
 4304,positivo
 4305,negativo
 4306,negativo
-4307,negativo
+4307,positivo
 4308,negativo
 4309,neutral
 4310,neutral
@@ -4886,7 +4320,7 @@ id,answer
 4318,negativo
 4319,negativo
 4320,positivo
-4321,negativo
+4321,positivo
 4322,positivo
 4323,negativo
 4324,negativo
@@ -4896,15 +4330,15 @@ id,answer
 4328,positivo
 4329,negativo
 4330,positivo
-4331,negativo
+4331,positivo
 4332,negativo
 4333,neutral
 4334,positivo
 4335,positivo
-4336,negativo
+4336,positivo
 4337,neutral
 4338,negativo
-4339,negativo
+4339,positivo
 4340,negativo
 4341,negativo
 4342,neutral
@@ -4934,61 +4368,51 @@ id,answer
 4366,negativo
 4367,positivo
 4368,negativo
-4369,negativo
+4369,neutral
 4370,positivo
 4371,positivo
 4372,negativo
 4373,positivo
-4374,negativo
-<<<<<<< HEAD
+4374,positivo
 4375,negativo
-=======
-4375,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4376,neutral
 4377,negativo
-4378,negativo
+4378,positivo
 4379,positivo
 4380,negativo
 4381,positivo
 4382,negativo
 4383,positivo
 4384,negativo
-4385,positivo
+4385,negativo
 4386,neutral
 4387,negativo
-4388,positivo
+4388,negativo
 4389,neutral
 4390,neutral
 4391,negativo
 4392,positivo
 4393,positivo
 4394,neutral
-4395,negativo
+4395,positivo
 4396,positivo
 4397,positivo
 4398,negativo
 4399,negativo
 4400,neutral
-4401,positivo
+4401,negativo
 4402,negativo
 4403,positivo
 4404,negativo
 4405,negativo
-4406,positivo
+4406,negativo
 4407,positivo
-<<<<<<< HEAD
 4408,positivo
-4409,negativo
-4410,negativo
-=======
-4408,negativo
 4409,positivo
 4410,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4411,neutral
 4412,neutral
-4413,negativo
+4413,positivo
 4414,negativo
 4415,neutral
 4416,negativo
@@ -5001,18 +4425,13 @@ id,answer
 4423,negativo
 4424,negativo
 4425,negativo
-4426,positivo
+4426,negativo
 4427,negativo
 4428,positivo
 4429,positivo
 4430,neutral
-<<<<<<< HEAD
-4431,positivo
-4432,negativo
-=======
 4431,negativo
 4432,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4433,positivo
 4434,positivo
 4435,negativo
@@ -5022,20 +4441,15 @@ id,answer
 4439,positivo
 4440,negativo
 4441,negativo
-<<<<<<< HEAD
-4442,negativo
-4443,positivo
-=======
 4442,positivo
 4443,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4444,neutral
 4445,neutral
 4446,neutral
 4447,positivo
 4448,positivo
-4449,positivo
-4450,negativo
+4449,negativo
+4450,positivo
 4451,positivo
 4452,negativo
 4453,negativo
@@ -5044,9 +4458,9 @@ id,answer
 4456,negativo
 4457,positivo
 4458,neutral
-4459,positivo
+4459,negativo
 4460,negativo
-4461,positivo
+4461,negativo
 4462,negativo
 4463,neutral
 4464,negativo
@@ -5055,7 +4469,7 @@ id,answer
 4467,positivo
 4468,negativo
 4469,negativo
-4470,positivo
+4470,negativo
 4471,neutral
 4472,positivo
 4473,neutral
@@ -5068,8 +4482,8 @@ id,answer
 4480,positivo
 4481,positivo
 4482,positivo
-4483,negativo
-4484,negativo
+4483,positivo
+4484,positivo
 4485,neutral
 4486,negativo
 4487,positivo
@@ -5080,12 +4494,12 @@ id,answer
 4492,positivo
 4493,positivo
 4494,neutral
-4495,positivo
+4495,negativo
 4496,negativo
 4497,neutral
 4498,negativo
 4499,negativo
-4500,positivo
+4500,negativo
 4501,positivo
 4502,positivo
 4503,negativo
@@ -5103,15 +4517,10 @@ id,answer
 4515,neutral
 4516,positivo
 4517,neutral
-4518,negativo
+4518,positivo
 4519,negativo
-<<<<<<< HEAD
-4520,positivo
-4521,positivo
-=======
 4520,negativo
 4521,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4522,positivo
 4523,positivo
 4524,positivo
@@ -5129,23 +4538,19 @@ id,answer
 4536,neutral
 4537,positivo
 4538,positivo
-4539,negativo
+4539,positivo
 4540,negativo
 4541,positivo
 4542,positivo
-4543,positivo
-<<<<<<< HEAD
-4544,negativo
-=======
+4543,negativo
 4544,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4545,negativo
 4546,neutral
-4547,positivo
+4547,negativo
 4548,positivo
-4549,neutral
+4549,positivo
 4550,positivo
-4551,neutral
+4551,negativo
 4552,positivo
 4553,positivo
 4554,negativo
@@ -5167,26 +4572,26 @@ id,answer
 4570,positivo
 4571,neutral
 4572,positivo
-4573,negativo
+4573,positivo
 4574,positivo
-4575,positivo
+4575,negativo
 4576,neutral
 4577,negativo
-4578,negativo
+4578,positivo
 4579,positivo
 4580,neutral
 4581,positivo
 4582,positivo
-4583,negativo
-4584,positivo
-4585,negativo
+4583,positivo
+4584,negativo
+4585,positivo
 4586,neutral
 4587,positivo
 4588,positivo
 4589,positivo
 4590,neutral
 4591,negativo
-4592,neutral
+4592,positivo
 4593,neutral
 4594,negativo
 4595,negativo
@@ -5201,13 +4606,13 @@ id,answer
 4604,positivo
 4605,negativo
 4606,positivo
-4607,positivo
+4607,negativo
 4608,neutral
 4609,positivo
 4610,positivo
 4611,negativo
 4612,positivo
-4613,positivo
+4613,negativo
 4614,negativo
 4615,negativo
 4616,positivo
@@ -5234,7 +4639,7 @@ id,answer
 4637,neutral
 4638,neutral
 4639,negativo
-4640,negativo
+4640,positivo
 4641,positivo
 4642,positivo
 4643,positivo
@@ -5251,7 +4656,7 @@ id,answer
 4654,negativo
 4655,negativo
 4656,negativo
-4657,positivo
+4657,negativo
 4658,negativo
 4659,positivo
 4660,negativo
@@ -5265,18 +4670,13 @@ id,answer
 4668,positivo
 4669,positivo
 4670,positivo
-4671,negativo
-<<<<<<< HEAD
+4671,positivo
 4672,negativo
 4673,positivo
-=======
-4672,positivo
-4673,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4674,negativo
-4675,negativo
+4675,positivo
 4676,negativo
-4677,negativo
+4677,positivo
 4678,positivo
 4679,negativo
 4680,negativo
@@ -5285,15 +4685,15 @@ id,answer
 4683,neutral
 4684,negativo
 4685,neutral
-4686,positivo
+4686,negativo
 4687,negativo
 4688,positivo
-4689,positivo
+4689,neutral
 4690,negativo
 4691,neutral
-4692,positivo
+4692,negativo
 4693,positivo
-4694,negativo
+4694,positivo
 4695,positivo
 4696,positivo
 4697,positivo
@@ -5301,7 +4701,7 @@ id,answer
 4699,negativo
 4700,positivo
 4701,positivo
-4702,negativo
+4702,positivo
 4703,positivo
 4704,neutral
 4705,neutral
@@ -5313,14 +4713,10 @@ id,answer
 4711,positivo
 4712,positivo
 4713,positivo
-<<<<<<< HEAD
-4714,positivo
-=======
 4714,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-4715,negativo
+4715,positivo
 4716,positivo
-4717,negativo
+4717,positivo
 4718,positivo
 4719,neutral
 4720,positivo
@@ -5332,12 +4728,12 @@ id,answer
 4726,positivo
 4727,negativo
 4728,positivo
-4729,negativo
+4729,positivo
 4730,negativo
 4731,positivo
 4732,neutral
-4733,negativo
-4734,negativo
+4733,positivo
+4734,positivo
 4735,positivo
 4736,negativo
 4737,positivo
@@ -5353,8 +4749,8 @@ id,answer
 4747,positivo
 4748,positivo
 4749,neutral
-4750,positivo
-4751,negativo
+4750,negativo
+4751,neutral
 4752,positivo
 4753,negativo
 4754,positivo
@@ -5377,23 +4773,23 @@ id,answer
 4771,neutral
 4772,positivo
 4773,negativo
-4774,positivo
+4774,negativo
 4775,positivo
 4776,negativo
 4777,negativo
-4778,negativo
+4778,positivo
 4779,negativo
 4780,negativo
 4781,negativo
 4782,positivo
 4783,positivo
-4784,negativo
+4784,positivo
 4785,negativo
 4786,neutral
 4787,positivo
 4788,positivo
 4789,negativo
-4790,negativo
+4790,positivo
 4791,negativo
 4792,positivo
 4793,positivo
@@ -5412,7 +4808,7 @@ id,answer
 4806,positivo
 4807,positivo
 4808,positivo
-4809,negativo
+4809,positivo
 4810,neutral
 4811,positivo
 4812,neutral
@@ -5422,12 +4818,12 @@ id,answer
 4816,negativo
 4817,neutral
 4818,neutral
-4819,positivo
+4819,negativo
 4820,negativo
 4821,positivo
 4822,positivo
-4823,negativo
-4824,positivo
+4823,positivo
+4824,negativo
 4825,negativo
 4826,negativo
 4827,neutral
@@ -5440,23 +4836,23 @@ id,answer
 4834,neutral
 4835,negativo
 4836,positivo
-4837,negativo
+4837,positivo
 4838,positivo
 4839,neutral
-4840,positivo
+4840,negativo
 4841,neutral
 4842,positivo
-4843,positivo
+4843,negativo
 4844,negativo
 4845,positivo
 4846,negativo
-4847,negativo
+4847,positivo
 4848,negativo
 4849,negativo
 4850,negativo
 4851,negativo
 4852,positivo
-4853,positivo
+4853,negativo
 4854,negativo
 4855,negativo
 4856,positivo
@@ -5466,17 +4862,17 @@ id,answer
 4860,positivo
 4861,negativo
 4862,negativo
-4863,positivo
+4863,negativo
 4864,neutral
 4865,negativo
 4866,negativo
 4867,negativo
-4868,negativo
+4868,positivo
 4869,neutral
 4870,positivo
 4871,positivo
 4872,positivo
-4873,negativo
+4873,positivo
 4874,negativo
 4875,positivo
 4876,positivo
@@ -5487,7 +4883,7 @@ id,answer
 4881,positivo
 4882,negativo
 4883,neutral
-4884,positivo
+4884,neutral
 4885,positivo
 4886,negativo
 4887,negativo
@@ -5500,38 +4896,31 @@ id,answer
 4894,positivo
 4895,positivo
 4896,positivo
-4897,negativo
+4897,positivo
 4898,positivo
 4899,positivo
-4900,neutral
+4900,positivo
 4901,neutral
 4902,neutral
 4903,positivo
 4904,positivo
 4905,neutral
 4906,negativo
-4907,positivo
+4907,negativo
 4908,neutral
 4909,neutral
 4910,neutral
 4911,negativo
-<<<<<<< HEAD
 4912,positivo
 4913,negativo
 4914,positivo
-4915,positivo
-=======
-4912,negativo
-4913,negativo
-4914,positivo
 4915,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 4916,positivo
 4917,neutral
 4918,positivo
 4919,positivo
 4920,positivo
-4921,negativo
+4921,positivo
 4922,positivo
 4923,negativo
 4924,positivo
@@ -5539,29 +4928,29 @@ id,answer
 4926,positivo
 4927,positivo
 4928,neutral
-4929,negativo
+4929,positivo
 4930,negativo
-4931,negativo
+4931,positivo
 4932,positivo
 4933,positivo
 4934,negativo
 4935,positivo
 4936,positivo
 4937,neutral
-4938,negativo
+4938,positivo
 4939,negativo
 4940,neutral
-4941,positivo
+4941,negativo
 4942,positivo
 4943,negativo
-4944,negativo
+4944,positivo
 4945,positivo
 4946,negativo
 4947,neutral
 4948,negativo
 4949,positivo
 4950,negativo
-4951,negativo
+4951,positivo
 4952,neutral
 4953,neutral
 4954,positivo
@@ -5575,20 +4964,20 @@ id,answer
 4962,positivo
 4963,neutral
 4964,negativo
-4965,negativo
+4965,positivo
 4966,positivo
 4967,negativo
 4968,positivo
 4969,negativo
 4970,negativo
 4971,negativo
-4972,positivo
+4972,negativo
 4973,positivo
 4974,negativo
-4975,positivo
+4975,negativo
 4976,neutral
 4977,positivo
-4978,negativo
+4978,positivo
 4979,positivo
 4980,neutral
 4981,positivo
@@ -5599,13 +4988,8 @@ id,answer
 4986,positivo
 4987,neutral
 4988,negativo
-<<<<<<< HEAD
-4989,positivo
-4990,negativo
-=======
 4989,negativo
-4990,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+4990,negativo
 4991,neutral
 4992,positivo
 4993,positivo
@@ -5615,32 +4999,28 @@ id,answer
 4997,negativo
 4998,neutral
 4999,positivo
-5000,positivo
-5001,positivo
+5000,neutral
+5001,negativo
 5002,positivo
 5003,positivo
 5004,negativo
 5005,positivo
 5006,positivo
-5007,negativo
+5007,positivo
 5008,positivo
-<<<<<<< HEAD
 5009,negativo
-=======
-5009,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5010,positivo
 5011,negativo
-5012,positivo
-5013,positivo
-5014,negativo
+5012,neutral
+5013,negativo
+5014,positivo
 5015,neutral
 5016,positivo
 5017,neutral
 5018,negativo
 5019,negativo
 5020,positivo
-5021,negativo
+5021,positivo
 5022,neutral
 5023,negativo
 5024,positivo
@@ -5649,7 +5029,7 @@ id,answer
 5027,neutral
 5028,positivo
 5029,positivo
-5030,negativo
+5030,positivo
 5031,negativo
 5032,positivo
 5033,negativo
@@ -5659,14 +5039,9 @@ id,answer
 5037,positivo
 5038,positivo
 5039,negativo
-<<<<<<< HEAD
 5040,neutral
-5041,positivo
-=======
-5040,positivo
 5041,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-5042,positivo
+5042,negativo
 5043,neutral
 5044,negativo
 5045,positivo
@@ -5694,7 +5069,7 @@ id,answer
 5067,negativo
 5068,positivo
 5069,neutral
-5070,positivo
+5070,negativo
 5071,neutral
 5072,neutral
 5073,neutral
@@ -5708,14 +5083,10 @@ id,answer
 5081,negativo
 5082,neutral
 5083,positivo
-<<<<<<< HEAD
-5084,positivo
-=======
 5084,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5085,positivo
 5086,negativo
-5087,negativo
+5087,positivo
 5088,positivo
 5089,positivo
 5090,neutral
@@ -5723,7 +5094,7 @@ id,answer
 5092,negativo
 5093,positivo
 5094,negativo
-5095,negativo
+5095,positivo
 5096,neutral
 5097,neutral
 5098,negativo
@@ -5732,27 +5103,27 @@ id,answer
 5101,positivo
 5102,neutral
 5103,negativo
-5104,negativo
-5105,positivo
-5106,positivo
+5104,positivo
+5105,negativo
+5106,negativo
 5107,positivo
 5108,negativo
 5109,positivo
 5110,neutral
 5111,positivo
 5112,positivo
-5113,negativo
+5113,positivo
 5114,negativo
 5115,positivo
 5116,positivo
 5117,positivo
 5118,neutral
 5119,positivo
-5120,positivo
+5120,negativo
 5121,neutral
 5122,neutral
 5123,negativo
-5124,positivo
+5124,negativo
 5125,positivo
 5126,positivo
 5127,negativo
@@ -5762,7 +5133,7 @@ id,answer
 5131,positivo
 5132,positivo
 5133,positivo
-5134,negativo
+5134,positivo
 5135,negativo
 5136,positivo
 5137,positivo
@@ -5770,7 +5141,7 @@ id,answer
 5139,positivo
 5140,negativo
 5141,negativo
-5142,positivo
+5142,negativo
 5143,positivo
 5144,negativo
 5145,negativo
@@ -5783,7 +5154,7 @@ id,answer
 5152,negativo
 5153,neutral
 5154,negativo
-5155,positivo
+5155,negativo
 5156,positivo
 5157,neutral
 5158,positivo
@@ -5791,7 +5162,7 @@ id,answer
 5160,neutral
 5161,neutral
 5162,positivo
-5163,negativo
+5163,positivo
 5164,negativo
 5165,positivo
 5166,negativo
@@ -5799,11 +5170,11 @@ id,answer
 5168,neutral
 5169,positivo
 5170,neutral
-5171,positivo
+5171,negativo
 5172,positivo
 5173,positivo
-5174,negativo
-5175,negativo
+5174,positivo
+5175,positivo
 5176,negativo
 5177,neutral
 5178,positivo
@@ -5816,7 +5187,7 @@ id,answer
 5185,neutral
 5186,negativo
 5187,positivo
-5188,negativo
+5188,positivo
 5189,positivo
 5190,negativo
 5191,neutral
@@ -5825,11 +5196,11 @@ id,answer
 5194,positivo
 5195,positivo
 5196,positivo
-5197,negativo
+5197,positivo
 5198,negativo
 5199,neutral
 5200,neutral
-5201,positivo
+5201,negativo
 5202,negativo
 5203,negativo
 5204,neutral
@@ -5842,44 +5213,35 @@ id,answer
 5211,positivo
 5212,negativo
 5213,neutral
-5214,positivo
-<<<<<<< HEAD
-5215,neutral
-=======
+5214,negativo
 5215,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5216,neutral
 5217,negativo
 5218,negativo
 5219,positivo
-5220,negativo
+5220,positivo
 5221,positivo
 5222,neutral
 5223,positivo
 5224,positivo
 5225,neutral
-<<<<<<< HEAD
 5226,negativo
-5227,positivo
-=======
-5226,positivo
 5227,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5228,negativo
 5229,negativo
 5230,neutral
 5231,positivo
 5232,negativo
 5233,neutral
-5234,negativo
+5234,positivo
 5235,negativo
 5236,neutral
-5237,positivo
+5237,negativo
 5238,neutral
 5239,negativo
 5240,positivo
 5241,neutral
-5242,negativo
+5242,positivo
 5243,positivo
 5244,positivo
 5245,positivo
@@ -5893,13 +5255,13 @@ id,answer
 5253,positivo
 5254,positivo
 5255,neutral
-5256,positivo
+5256,negativo
 5257,positivo
-5258,positivo
+5258,negativo
 5259,positivo
 5260,positivo
 5261,neutral
-5262,negativo
+5262,positivo
 5263,positivo
 5264,positivo
 5265,positivo
@@ -5909,7 +5271,7 @@ id,answer
 5269,neutral
 5270,negativo
 5271,negativo
-5272,negativo
+5272,positivo
 5273,negativo
 5274,positivo
 5275,negativo
@@ -5929,7 +5291,7 @@ id,answer
 5289,negativo
 5290,positivo
 5291,negativo
-5292,positivo
+5292,negativo
 5293,negativo
 5294,negativo
 5295,negativo
@@ -5965,7 +5327,7 @@ id,answer
 5325,negativo
 5326,positivo
 5327,neutral
-5328,positivo
+5328,negativo
 5329,neutral
 5330,negativo
 5331,neutral
@@ -5980,7 +5342,7 @@ id,answer
 5340,neutral
 5341,positivo
 5342,positivo
-5343,positivo
+5343,negativo
 5344,negativo
 5345,positivo
 5346,negativo
@@ -5994,32 +5356,20 @@ id,answer
 5354,positivo
 5355,positivo
 5356,positivo
-<<<<<<< HEAD
-5357,positivo
-5358,negativo
-=======
 5357,negativo
 5358,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5359,negativo
 5360,neutral
 5361,positivo
 5362,positivo
 5363,positivo
-<<<<<<< HEAD
 5364,positivo
 5365,neutral
-5366,negativo
-5367,negativo
-=======
-5364,negativo
-5365,negativo
 5366,positivo
-5367,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+5367,negativo
 5368,positivo
 5369,positivo
-5370,positivo
+5370,negativo
 5371,positivo
 5372,positivo
 5373,negativo
@@ -6033,7 +5383,7 @@ id,answer
 5381,negativo
 5382,positivo
 5383,negativo
-5384,positivo
+5384,negativo
 5385,positivo
 5386,negativo
 5387,negativo
@@ -6043,21 +5393,21 @@ id,answer
 5391,positivo
 5392,negativo
 5393,negativo
-5394,negativo
-5395,positivo
+5394,positivo
+5395,negativo
 5396,positivo
-5397,negativo
+5397,positivo
 5398,positivo
 5399,positivo
 5400,neutral
-5401,negativo
+5401,positivo
 5402,positivo
 5403,neutral
 5404,neutral
 5405,negativo
 5406,positivo
-5407,negativo
-5408,negativo
+5407,positivo
+5408,positivo
 5409,positivo
 5410,neutral
 5411,positivo
@@ -6069,29 +5419,21 @@ id,answer
 5417,positivo
 5418,positivo
 5419,positivo
-<<<<<<< HEAD
-5420,positivo
-=======
 5420,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5421,neutral
 5422,positivo
 5423,negativo
 5424,negativo
 5425,negativo
-5426,negativo
+5426,positivo
 5427,positivo
 5428,negativo
 5429,positivo
-<<<<<<< HEAD
-5430,positivo
-=======
 5430,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5431,positivo
 5432,neutral
 5433,neutral
-5434,negativo
+5434,positivo
 5435,positivo
 5436,neutral
 5437,negativo
@@ -6102,12 +5444,12 @@ id,answer
 5442,positivo
 5443,neutral
 5444,positivo
-5445,positivo
+5445,negativo
 5446,neutral
 5447,negativo
 5448,positivo
 5449,positivo
-5450,negativo
+5450,positivo
 5451,neutral
 5452,neutral
 5453,positivo
@@ -6115,13 +5457,13 @@ id,answer
 5455,negativo
 5456,negativo
 5457,positivo
-5458,positivo
+5458,negativo
 5459,positivo
 5460,positivo
 5461,negativo
 5462,positivo
 5463,negativo
-5464,positivo
+5464,negativo
 5465,positivo
 5466,positivo
 5467,negativo
@@ -6146,20 +5488,15 @@ id,answer
 5486,positivo
 5487,negativo
 5488,negativo
-5489,negativo
+5489,positivo
 5490,positivo
 5491,negativo
 5492,positivo
-5493,positivo
+5493,negativo
 5494,neutral
 5495,negativo
-<<<<<<< HEAD
-5496,negativo
-5497,negativo
-=======
 5496,positivo
 5497,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5498,negativo
 5499,negativo
 5500,negativo
@@ -6170,7 +5507,7 @@ id,answer
 5505,positivo
 5506,negativo
 5507,positivo
-5508,positivo
+5508,negativo
 5509,positivo
 5510,positivo
 5511,negativo
@@ -6182,13 +5519,8 @@ id,answer
 5517,positivo
 5518,positivo
 5519,positivo
-<<<<<<< HEAD
 5520,positivo
-5521,positivo
-=======
-5520,negativo
 5521,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5522,positivo
 5523,negativo
 5524,positivo
@@ -6206,13 +5538,8 @@ id,answer
 5536,neutral
 5537,negativo
 5538,negativo
-<<<<<<< HEAD
 5539,negativo
 5540,positivo
-=======
-5539,positivo
-5540,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5541,negativo
 5542,neutral
 5543,neutral
@@ -6220,85 +5547,64 @@ id,answer
 5545,neutral
 5546,neutral
 5547,positivo
-5548,negativo
-5549,negativo
+5548,positivo
+5549,positivo
 5550,neutral
 5551,negativo
 5552,positivo
 5553,negativo
-5554,positivo
+5554,negativo
 5555,negativo
 5556,neutral
-<<<<<<< HEAD
 5557,negativo
-5558,negativo
-5559,negativo
-5560,negativo
-=======
-5557,positivo
 5558,positivo
 5559,positivo
 5560,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5561,neutral
 5562,positivo
 5563,positivo
 5564,positivo
 5565,positivo
 5566,positivo
-5567,negativo
+5567,positivo
 5568,positivo
 5569,positivo
 5570,negativo
 5571,positivo
-5572,negativo
+5572,positivo
 5573,negativo
 5574,negativo
 5575,neutral
 5576,negativo
 5577,positivo
-<<<<<<< HEAD
-5578,negativo
-5579,negativo
-=======
 5578,positivo
 5579,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5580,positivo
 5581,neutral
-5582,negativo
+5582,positivo
 5583,negativo
 5584,neutral
 5585,negativo
 5586,neutral
 5587,positivo
-<<<<<<< HEAD
 5588,positivo
-5589,negativo
-=======
-5588,negativo
 5589,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5590,positivo
 5591,neutral
-5592,negativo
+5592,neutral
 5593,negativo
 5594,negativo
-5595,neutral
+5595,positivo
 5596,positivo
 5597,negativo
 5598,neutral
 5599,positivo
 5600,positivo
-<<<<<<< HEAD
-5601,neutral
-=======
 5601,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5602,neutral
 5603,negativo
 5604,positivo
-5605,positivo
+5605,negativo
 5606,negativo
 5607,neutral
 5608,positivo
@@ -6315,15 +5621,15 @@ id,answer
 5619,neutral
 5620,negativo
 5621,negativo
-5622,negativo
-5623,positivo
+5622,positivo
+5623,neutral
 5624,negativo
 5625,neutral
 5626,positivo
 5627,negativo
-5628,positivo
+5628,negativo
 5629,positivo
-5630,negativo
+5630,neutral
 5631,negativo
 5632,negativo
 5633,negativo
@@ -6332,9 +5638,9 @@ id,answer
 5636,negativo
 5637,neutral
 5638,neutral
-5639,positivo
+5639,negativo
 5640,negativo
-5641,negativo
+5641,positivo
 5642,neutral
 5643,negativo
 5644,neutral
@@ -6343,11 +5649,11 @@ id,answer
 5647,neutral
 5648,positivo
 5649,positivo
-5650,negativo
-5651,positivo
+5650,positivo
+5651,negativo
 5652,positivo
 5653,positivo
-5654,negativo
+5654,positivo
 5655,positivo
 5656,negativo
 5657,positivo
@@ -6359,7 +5665,7 @@ id,answer
 5663,neutral
 5664,positivo
 5665,negativo
-5666,negativo
+5666,positivo
 5667,positivo
 5668,positivo
 5669,positivo
@@ -6380,13 +5686,13 @@ id,answer
 5684,neutral
 5685,positivo
 5686,negativo
-5687,positivo
+5687,negativo
 5688,neutral
 5689,positivo
 5690,neutral
 5691,negativo
 5692,negativo
-5693,negativo
+5693,neutral
 5694,positivo
 5695,neutral
 5696,positivo
@@ -6405,25 +5711,21 @@ id,answer
 5709,positivo
 5710,neutral
 5711,negativo
-5712,positivo
+5712,negativo
 5713,neutral
-5714,positivo
+5714,negativo
 5715,negativo
 5716,negativo
 5717,negativo
 5718,neutral
 5719,positivo
-5720,negativo
+5720,positivo
 5721,negativo
 5722,positivo
-5723,positivo
+5723,neutral
 5724,positivo
 5725,positivo
-<<<<<<< HEAD
 5726,negativo
-=======
-5726,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5727,neutral
 5728,positivo
 5729,negativo
@@ -6432,7 +5734,7 @@ id,answer
 5732,negativo
 5733,positivo
 5734,negativo
-5735,negativo
+5735,positivo
 5736,positivo
 5737,positivo
 5738,negativo
@@ -6440,11 +5742,7 @@ id,answer
 5740,positivo
 5741,negativo
 5742,negativo
-<<<<<<< HEAD
-5743,negativo
-=======
 5743,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5744,positivo
 5745,positivo
 5746,negativo
@@ -6456,7 +5754,7 @@ id,answer
 5752,neutral
 5753,positivo
 5754,negativo
-5755,negativo
+5755,positivo
 5756,positivo
 5757,neutral
 5758,negativo
@@ -6466,11 +5764,7 @@ id,answer
 5762,negativo
 5763,neutral
 5764,neutral
-<<<<<<< HEAD
-5765,negativo
-=======
-5765,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+5765,neutral
 5766,positivo
 5767,positivo
 5768,positivo
@@ -6491,21 +5785,21 @@ id,answer
 5783,negativo
 5784,negativo
 5785,negativo
-5786,negativo
+5786,positivo
 5787,negativo
 5788,neutral
 5789,neutral
 5790,negativo
 5791,positivo
-5792,positivo
+5792,negativo
 5793,neutral
-5794,negativo
+5794,positivo
 5795,positivo
 5796,positivo
 5797,positivo
 5798,positivo
-5799,negativo
-5800,neutral
+5799,positivo
+5800,positivo
 5801,positivo
 5802,neutral
 5803,negativo
@@ -6517,15 +5811,11 @@ id,answer
 5809,negativo
 5810,positivo
 5811,negativo
-<<<<<<< HEAD
 5812,negativo
-=======
-5812,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5813,negativo
 5814,negativo
-5815,negativo
-5816,positivo
+5815,positivo
+5816,negativo
 5817,negativo
 5818,negativo
 5819,negativo
@@ -6542,7 +5832,7 @@ id,answer
 5830,negativo
 5831,positivo
 5832,positivo
-5833,positivo
+5833,negativo
 5834,negativo
 5835,negativo
 5836,negativo
@@ -6550,7 +5840,7 @@ id,answer
 5838,neutral
 5839,negativo
 5840,positivo
-5841,negativo
+5841,positivo
 5842,neutral
 5843,negativo
 5844,negativo
@@ -6570,28 +5860,17 @@ id,answer
 5858,negativo
 5859,neutral
 5860,negativo
-<<<<<<< HEAD
 5861,positivo
-5862,negativo
-=======
-5861,negativo
 5862,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5863,positivo
 5864,positivo
 5865,negativo
 5866,positivo
-5867,positivo
+5867,negativo
 5868,positivo
-<<<<<<< HEAD
 5869,negativo
 5870,positivo
 5871,negativo
-=======
-5869,positivo
-5870,negativo
-5871,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5872,negativo
 5873,positivo
 5874,negativo
@@ -6604,11 +5883,7 @@ id,answer
 5881,negativo
 5882,neutral
 5883,positivo
-<<<<<<< HEAD
-5884,positivo
-=======
 5884,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5885,positivo
 5886,negativo
 5887,positivo
@@ -6622,11 +5897,7 @@ id,answer
 5895,positivo
 5896,neutral
 5897,negativo
-<<<<<<< HEAD
 5898,negativo
-=======
-5898,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5899,positivo
 5900,neutral
 5901,neutral
@@ -6645,31 +5916,22 @@ id,answer
 5914,negativo
 5915,positivo
 5916,positivo
-<<<<<<< HEAD
-5917,positivo
-5918,negativo
-=======
 5917,negativo
 5918,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5919,positivo
 5920,positivo
 5921,positivo
 5922,negativo
 5923,positivo
 5924,neutral
-5925,negativo
+5925,positivo
 5926,neutral
 5927,neutral
 5928,positivo
 5929,negativo
 5930,negativo
 5931,negativo
-<<<<<<< HEAD
-5932,negativo
-=======
 5932,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5933,neutral
 5934,negativo
 5935,positivo
@@ -6678,7 +5940,7 @@ id,answer
 5938,neutral
 5939,positivo
 5940,negativo
-5941,neutral
+5941,positivo
 5942,neutral
 5943,positivo
 5944,positivo
@@ -6694,15 +5956,6 @@ id,answer
 5954,positivo
 5955,negativo
 5956,positivo
-<<<<<<< HEAD
-5957,negativo
-5958,negativo
-5959,positivo
-5960,negativo
-5961,negativo
-5962,positivo
-5963,negativo
-=======
 5957,positivo
 5958,positivo
 5959,neutral
@@ -6710,27 +5963,22 @@ id,answer
 5961,negativo
 5962,positivo
 5963,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 5964,positivo
 5965,negativo
 5966,positivo
 5967,neutral
 5968,positivo
 5969,negativo
-<<<<<<< HEAD
 5970,negativo
-=======
-5970,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-5971,negativo
+5971,positivo
 5972,negativo
 5973,negativo
 5974,positivo
 5975,positivo
 5976,positivo
-5977,negativo
+5977,positivo
 5978,negativo
-5979,positivo
+5979,negativo
 5980,positivo
 5981,neutral
 5982,negativo
@@ -6753,45 +6001,34 @@ id,answer
 5999,negativo
 6000,negativo
 6001,positivo
-<<<<<<< HEAD
-6002,positivo
-6003,positivo
-6004,positivo
-6005,negativo
-=======
 6002,negativo
 6003,negativo
 6004,positivo
-6005,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6005,negativo
 6006,neutral
 6007,negativo
 6008,neutral
-6009,negativo
+6009,positivo
 6010,positivo
 6011,positivo
-6012,positivo
+6012,negativo
 6013,negativo
-6014,negativo
+6014,positivo
 6015,neutral
 6016,neutral
 6017,neutral
 6018,positivo
-6019,negativo
+6019,positivo
 6020,neutral
 6021,positivo
 6022,neutral
 6023,positivo
 6024,positivo
 6025,neutral
-6026,positivo
+6026,negativo
 6027,positivo
 6028,positivo
-<<<<<<< HEAD
-6029,negativo
-=======
 6029,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6030,neutral
 6031,negativo
 6032,negativo
@@ -6799,26 +6036,26 @@ id,answer
 6034,neutral
 6035,negativo
 6036,positivo
-6037,positivo
+6037,negativo
 6038,negativo
 6039,neutral
-6040,positivo
+6040,neutral
 6041,positivo
 6042,positivo
 6043,positivo
 6044,neutral
 6045,neutral
-6046,negativo
+6046,positivo
 6047,positivo
 6048,positivo
 6049,positivo
 6050,neutral
-6051,negativo
+6051,positivo
 6052,negativo
 6053,positivo
 6054,positivo
 6055,negativo
-6056,negativo
+6056,positivo
 6057,negativo
 6058,positivo
 6059,positivo
@@ -6833,8 +6070,8 @@ id,answer
 6068,negativo
 6069,positivo
 6070,positivo
-6071,negativo
-6072,positivo
+6071,positivo
+6072,negativo
 6073,neutral
 6074,neutral
 6075,negativo
@@ -6843,13 +6080,9 @@ id,answer
 6078,negativo
 6079,negativo
 6080,positivo
-<<<<<<< HEAD
-6081,positivo
-=======
 6081,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6082,negativo
-6083,positivo
+6083,negativo
 6084,neutral
 6085,negativo
 6086,positivo
@@ -6861,7 +6094,7 @@ id,answer
 6092,positivo
 6093,negativo
 6094,negativo
-6095,negativo
+6095,positivo
 6096,neutral
 6097,negativo
 6098,positivo
@@ -6899,20 +6132,20 @@ id,answer
 6130,positivo
 6131,negativo
 6132,negativo
-6133,positivo
+6133,negativo
 6134,positivo
 6135,neutral
 6136,neutral
-6137,negativo
+6137,positivo
 6138,positivo
-6139,negativo
-6140,negativo
+6139,positivo
+6140,neutral
 6141,negativo
 6142,neutral
-6143,negativo
+6143,positivo
 6144,neutral
 6145,positivo
-6146,negativo
+6146,positivo
 6147,negativo
 6148,negativo
 6149,negativo
@@ -6933,16 +6166,16 @@ id,answer
 6164,negativo
 6165,positivo
 6166,neutral
-6167,negativo
+6167,positivo
 6168,negativo
 6169,positivo
 6170,negativo
 6171,negativo
 6172,neutral
 6173,neutral
-6174,negativo
+6174,positivo
 6175,negativo
-6176,negativo
+6176,positivo
 6177,positivo
 6178,positivo
 6179,negativo
@@ -6950,13 +6183,8 @@ id,answer
 6181,negativo
 6182,neutral
 6183,positivo
-<<<<<<< HEAD
-6184,negativo
-6185,neutral
-=======
 6184,positivo
-6185,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6185,neutral
 6186,negativo
 6187,positivo
 6188,negativo
@@ -6972,7 +6200,7 @@ id,answer
 6198,neutral
 6199,neutral
 6200,positivo
-6201,positivo
+6201,negativo
 6202,neutral
 6203,negativo
 6204,neutral
@@ -6991,30 +6219,19 @@ id,answer
 6217,neutral
 6218,negativo
 6219,negativo
-<<<<<<< HEAD
-6220,positivo
-6221,negativo
-6222,negativo
-6223,negativo
-=======
 6220,negativo
 6221,negativo
 6222,positivo
-6223,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6223,neutral
 6224,negativo
 6225,negativo
 6226,positivo
-6227,negativo
-6228,negativo
+6227,positivo
+6228,positivo
 6229,positivo
 6230,positivo
-<<<<<<< HEAD
 6231,positivo
-=======
-6231,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-6232,negativo
+6232,positivo
 6233,positivo
 6234,negativo
 6235,negativo
@@ -7023,15 +6240,15 @@ id,answer
 6238,positivo
 6239,negativo
 6240,neutral
-6241,negativo
+6241,positivo
 6242,neutral
 6243,positivo
-6244,positivo
+6244,negativo
 6245,negativo
 6246,negativo
-6247,negativo
+6247,positivo
 6248,neutral
-6249,positivo
+6249,negativo
 6250,negativo
 6251,positivo
 6252,negativo
@@ -7042,15 +6259,11 @@ id,answer
 6257,negativo
 6258,positivo
 6259,neutral
-6260,positivo
+6260,negativo
 6261,negativo
 6262,negativo
 6263,positivo
-<<<<<<< HEAD
-6264,positivo
-=======
 6264,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6265,positivo
 6266,negativo
 6267,positivo
@@ -7063,11 +6276,11 @@ id,answer
 6274,positivo
 6275,negativo
 6276,negativo
-6277,negativo
+6277,positivo
 6278,positivo
 6279,neutral
 6280,negativo
-6281,positivo
+6281,negativo
 6282,positivo
 6283,positivo
 6284,positivo
@@ -7076,7 +6289,7 @@ id,answer
 6287,negativo
 6288,positivo
 6289,positivo
-6290,positivo
+6290,negativo
 6291,positivo
 6292,positivo
 6293,neutral
@@ -7090,7 +6303,7 @@ id,answer
 6301,positivo
 6302,neutral
 6303,negativo
-6304,positivo
+6304,negativo
 6305,positivo
 6306,neutral
 6307,neutral
@@ -7099,28 +6312,19 @@ id,answer
 6310,positivo
 6311,neutral
 6312,negativo
-<<<<<<< HEAD
-6313,negativo
-6314,negativo
-=======
-6313,positivo
+6313,neutral
 6314,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6315,neutral
-6316,positivo
+6316,negativo
 6317,negativo
 6318,positivo
 6319,positivo
 6320,negativo
 6321,negativo
-6322,positivo
+6322,negativo
 6323,negativo
-6324,positivo
-<<<<<<< HEAD
+6324,negativo
 6325,positivo
-=======
-6325,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6326,negativo
 6327,negativo
 6328,negativo
@@ -7147,25 +6351,18 @@ id,answer
 6349,negativo
 6350,positivo
 6351,positivo
-6352,negativo
+6352,positivo
 6353,positivo
 6354,negativo
 6355,negativo
 6356,positivo
 6357,positivo
 6358,neutral
-6359,positivo
-<<<<<<< HEAD
-6360,positivo
-6361,neutral
-6362,positivo
-6363,positivo
-=======
+6359,negativo
 6360,negativo
 6361,neutral
 6362,positivo
 6363,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6364,negativo
 6365,positivo
 6366,positivo
@@ -7174,11 +6371,11 @@ id,answer
 6369,negativo
 6370,positivo
 6371,neutral
-6372,positivo
+6372,neutral
 6373,negativo
-6374,negativo
+6374,positivo
 6375,negativo
-6376,positivo
+6376,negativo
 6377,negativo
 6378,neutral
 6379,negativo
@@ -7199,26 +6396,21 @@ id,answer
 6394,positivo
 6395,neutral
 6396,positivo
-6397,positivo
-6398,positivo
+6397,negativo
+6398,negativo
 6399,neutral
 6400,positivo
 6401,neutral
 6402,neutral
-6403,positivo
+6403,negativo
 6404,negativo
 6405,positivo
 6406,negativo
-6407,negativo
-6408,negativo
+6407,positivo
+6408,positivo
 6409,positivo
-<<<<<<< HEAD
-6410,negativo
-6411,positivo
-=======
 6410,positivo
-6411,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6411,positivo
 6412,neutral
 6413,positivo
 6414,neutral
@@ -7235,14 +6427,10 @@ id,answer
 6425,neutral
 6426,neutral
 6427,negativo
-6428,positivo
+6428,negativo
 6429,negativo
 6430,positivo
-<<<<<<< HEAD
-6431,positivo
-=======
 6431,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6432,positivo
 6433,negativo
 6434,negativo
@@ -7259,14 +6447,9 @@ id,answer
 6445,neutral
 6446,negativo
 6447,positivo
-<<<<<<< HEAD
-6448,negativo
-6449,positivo
-=======
 6448,positivo
 6449,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-6450,positivo
+6450,negativo
 6451,neutral
 6452,negativo
 6453,neutral
@@ -7276,28 +6459,24 @@ id,answer
 6457,negativo
 6458,neutral
 6459,positivo
-6460,negativo
+6460,neutral
 6461,positivo
-6462,negativo
-6463,negativo
+6462,positivo
+6463,positivo
 6464,negativo
 6465,positivo
 6466,positivo
 6467,negativo
-<<<<<<< HEAD
-6468,negativo
-=======
 6468,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-6469,negativo
+6469,positivo
 6470,neutral
 6471,positivo
-6472,negativo
+6472,positivo
 6473,negativo
-6474,positivo
+6474,negativo
 6475,positivo
 6476,positivo
-6477,positivo
+6477,negativo
 6478,negativo
 6479,neutral
 6480,positivo
@@ -7314,26 +6493,18 @@ id,answer
 6491,neutral
 6492,neutral
 6493,positivo
-6494,negativo
+6494,positivo
 6495,positivo
 6496,positivo
 6497,positivo
 6498,negativo
 6499,negativo
 6500,negativo
-<<<<<<< HEAD
-6501,negativo
-6502,positivo
-6503,negativo
-6504,positivo
-6505,negativo
-=======
 6501,positivo
 6502,positivo
 6503,negativo
 6504,negativo
-6505,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6505,negativo
 6506,neutral
 6507,negativo
 6508,positivo
@@ -7342,51 +6513,36 @@ id,answer
 6511,neutral
 6512,positivo
 6513,negativo
-6514,positivo
+6514,negativo
 6515,neutral
 6516,neutral
-6517,negativo
+6517,positivo
 6518,neutral
 6519,negativo
 6520,negativo
-6521,negativo
-<<<<<<< HEAD
-6522,negativo
-=======
+6521,positivo
 6522,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6523,neutral
 6524,negativo
 6525,negativo
 6526,positivo
 6527,neutral
-<<<<<<< HEAD
 6528,positivo
-6529,negativo
-6530,negativo
-=======
-6528,negativo
 6529,positivo
 6530,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6531,negativo
 6532,positivo
 6533,negativo
 6534,neutral
-<<<<<<< HEAD
-6535,negativo
-6536,negativo
-=======
 6535,positivo
-6536,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6536,negativo
 6537,neutral
-6538,negativo
+6538,positivo
 6539,neutral
-6540,negativo
+6540,positivo
 6541,positivo
 6542,negativo
-6543,positivo
+6543,negativo
 6544,negativo
 6545,negativo
 6546,neutral
@@ -7397,22 +6553,16 @@ id,answer
 6551,positivo
 6552,negativo
 6553,neutral
-6554,negativo
+6554,positivo
 6555,positivo
 6556,positivo
 6557,neutral
 6558,neutral
-<<<<<<< HEAD
 6559,positivo
-6560,negativo
-6561,positivo
-=======
-6559,negativo
 6560,positivo
 6561,neutral
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6562,positivo
-6563,positivo
+6563,negativo
 6564,positivo
 6565,neutral
 6566,positivo
@@ -7422,14 +6572,14 @@ id,answer
 6570,negativo
 6571,positivo
 6572,positivo
-6573,negativo
+6573,positivo
 6574,neutral
 6575,positivo
 6576,neutral
 6577,positivo
 6578,positivo
-6579,positivo
-6580,negativo
+6579,negativo
+6580,positivo
 6581,negativo
 6582,negativo
 6583,positivo
@@ -7467,7 +6617,7 @@ id,answer
 6615,positivo
 6616,negativo
 6617,negativo
-6618,negativo
+6618,positivo
 6619,positivo
 6620,negativo
 6621,negativo
@@ -7495,56 +6645,37 @@ id,answer
 6643,positivo
 6644,neutral
 6645,negativo
-6646,positivo
+6646,negativo
 6647,negativo
 6648,negativo
-<<<<<<< HEAD
-6649,negativo
-6650,negativo
-=======
 6649,positivo
 6650,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6651,neutral
 6652,neutral
 6653,positivo
 6654,neutral
 6655,negativo
 6656,positivo
-<<<<<<< HEAD
-6657,negativo
-6658,positivo
-6659,positivo
-=======
 6657,positivo
 6658,negativo
-6659,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
+6659,positivo
 6660,neutral
-6661,negativo
+6661,neutral
 6662,negativo
 6663,negativo
 6664,positivo
 6665,positivo
-<<<<<<< HEAD
-6666,negativo
-=======
 6666,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6667,negativo
 6668,positivo
 6669,negativo
 6670,negativo
 6671,negativo
 6672,positivo
-6673,negativo
-6674,positivo
+6673,positivo
+6674,negativo
 6675,positivo
-<<<<<<< HEAD
 6676,positivo
-=======
-6676,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6677,neutral
 6678,negativo
 6679,negativo
@@ -7559,7 +6690,7 @@ id,answer
 6688,negativo
 6689,positivo
 6690,negativo
-6691,negativo
+6691,positivo
 6692,neutral
 6693,positivo
 6694,negativo
@@ -7578,27 +6709,22 @@ id,answer
 6707,negativo
 6708,neutral
 6709,negativo
-6710,negativo
+6710,positivo
 6711,neutral
-<<<<<<< HEAD
-6712,positivo
-6713,negativo
-=======
 6712,negativo
 6713,positivo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
-6714,negativo
+6714,positivo
 6715,neutral
 6716,positivo
 6717,positivo
 6718,neutral
 6719,positivo
 6720,negativo
-6721,positivo
+6721,negativo
 6722,neutral
 6723,neutral
 6724,neutral
-6725,positivo
+6725,negativo
 6726,neutral
 6727,positivo
 6728,negativo
@@ -7606,8 +6732,8 @@ id,answer
 6730,negativo
 6731,positivo
 6732,neutral
-6733,negativo
-6734,negativo
+6733,positivo
+6734,positivo
 6735,negativo
 6736,positivo
 6737,negativo
@@ -7621,11 +6747,7 @@ id,answer
 6745,neutral
 6746,negativo
 6747,positivo
-<<<<<<< HEAD
-6748,positivo
-=======
 6748,negativo
->>>>>>> 568e7f2e77b8d2435f9d44c3c8f4582b22ef1bd8
 6749,negativo
 6750,positivo
 6751,neutral
@@ -7637,15 +6759,15 @@ id,answer
 6757,positivo
 6758,positivo
 6759,negativo
-6760,positivo
+6760,negativo
 6761,neutral
 6762,neutral
 6763,negativo
 6764,positivo
 6765,negativo
 6766,positivo
-6767,negativo
-6768,positivo
+6767,positivo
+6768,negativo
 6769,positivo
 6770,positivo
 6771,negativo
