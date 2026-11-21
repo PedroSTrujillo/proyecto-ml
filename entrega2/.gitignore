@@ -1,5 +1,6 @@
-# Checkpoints de transformers (~1 GB cada uno): demasiado grandes para git
+# Modelos entrenados: se guardan en Hugging Face (ver la primera celda del notebook), no en git
+modelos/*.keras
 modelos/transformers/
 
-# Ya no se usa: Colab descarga ./modelos de GitHub (y pesa más de 100 MB)
+# Ya no se usa (pesa más de 100 MB, el límite de GitHub por archivo)
 modelos.zip
