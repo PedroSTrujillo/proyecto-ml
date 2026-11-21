@@ -1,2 +1,5 @@
 # Checkpoints de transformers (~1 GB cada uno): demasiado grandes para git
 modelos/transformers/
+
+# Ya no se usa: Colab descarga ./modelos de GitHub (y pesa más de 100 MB)
+modelos.zip
